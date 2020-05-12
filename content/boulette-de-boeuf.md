@@ -3,11 +3,9 @@ categories = ["accompagnement"]
 cover = "/img/photo boulette de boeuf.jpg"
 date = 2020-04-29T04:00:00Z
 lastmod = 2020-04-29T04:00:00Z
-photo_step = []
-preambule = "\n\n"
 tags = ["boeuf"]
 title = "Boulette de boeuf"
-
+draft = true
 +++
 **Beef meat ball**
 
@@ -57,12 +55,9 @@ we notice that the meatballs are cooked when they rise to the surface. Take them
 
 Continue until the meat is gone.
 
-  
- 
+
 
 I give to you this link to watch for make up the meat balles:
-
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/UVGhYHfLDqo](https://www.youtube.com/embed/UVGhYHfLDqo "https://www.youtube.com/embed/UVGhYHfLDqo")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
   
  

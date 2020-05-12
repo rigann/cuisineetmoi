@@ -7,6 +7,7 @@ tags:
 - chocolat
 - banane
 date: 2020-04-29
+draft: true
 lastmod: 2020-04-29
 minuteRead: 30
 readingtime: 25
