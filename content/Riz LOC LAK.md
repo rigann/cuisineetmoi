@@ -13,7 +13,7 @@ readingtime: 25
 .Params.readingtime : 45
 draft: true
 ---
-J'aime réaliser cet plat car il y a peu d'ingrédient
+J'aime réaliser cet plat car il y a peu d'ingrédient.
 
 <!--more--> 
 
@@ -28,14 +28,14 @@ J'aime réaliser cet plat car il y a peu d'ingrédient
 - 1,5 C à S farine de blé
 - 1 C à c cassonade 
 
-Riz
+#### Riz
 
 - 4 pot de riz
 - 440 g de sauce de tomate concassé
 - 1,5 C à S nuoc mam
 - 1 gousse d'ail
 
-Sauce vinaigré 
+#### Sauce vinaigré 
 
 - 1,5 C à C de poivre
 - 1 C à C sauce de Maggi
@@ -45,7 +45,6 @@ Sauce vinaigré
 
 
 ## Préparation ##
-
 
 1. Faire cuire le riz dans un autocuiseur, ne met pas trop d'eau, pour que le riz soit al denté, 
 
@@ -61,7 +60,7 @@ Pressez le citron, versez le jus et les autres assaisonnements dans un bols puis
 2. Mettez le feux doux, puis incorpore le riz et faire revenir à l'aide  avec deux spatules jusqu'à le riz absorbe tout la sauce tomate,
 3. réservez les.
 
-## Cuisson viande ##
+## Cuisson de la viande ##
 
 1. Séparez la viande en 4 portions, 
 2. Dans un wok faire chauffer un filet d'huile au feux vif, incorporez la portion de boeuf, puis faire revenir de chaque coté une minute,
