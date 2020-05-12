@@ -1,2 +1,8 @@
-# ignore google drive
+## OS Files
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
 desktop.ini
+

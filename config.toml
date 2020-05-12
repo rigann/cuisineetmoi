@@ -1,0 +1,28 @@
+baseURL = "https://cuisineetmoi.netlify.app/"
+languageCode = "fr"
+title = "Cuisine et moi, un blog de Mathorea"
+
+theme = "dream"
+enableRobotsTXT = true
+
+[params]
+  # background = "black"
+  backgroundImage = "/me/background.jpg"
+  linkColor = "seagreen"
+
+  author = "Mathorea"
+  description = "Mère d'une famille avec 2 enfants, je partage avec vous mes recettes du quotidien."
+  avatar = "/me/mathorea.jpg"
+  motto = "de la cuisine simple de tous les jours pour tous"
+  
+  email = "limmathorea@gmail.com"
+
+  siteStartYear = 2020
+
+  #favicon = "/favicon.ico"
+
+  # dark mode
+  darkLinkColor = "darkseagreen"
+  darkNav = true
+  dark404Button = true
+
