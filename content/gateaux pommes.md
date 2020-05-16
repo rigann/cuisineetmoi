@@ -23,8 +23,8 @@ Gateau pomme classique
 - 1 sachet de levure
 - 1 sachet de sucre de vanille
 - 60g d'huil d'arachide
-- 5 Pommes
-- 1 pince de sel
+- 5 pommes
+- 1 pincée de sel
 
 
 ### Pour la crème
@@ -36,11 +36,8 @@ Gateau pomme classique
 
 1. Eplucher les pommes, puis les couper en quatiers.
 
-2. Prendre un grand saladier versés la farine, le sucre, la levure, le sucre de vanille, sel, les deux d'oeufs, puis les mélagés en rajoutant petit à petit le lait et d'huil jusqu'au obtenu une pâte bien lise.
+2. Prendre un grand saladier verser la farine, le sucre, la levure, le sucre de vanille, sel, les deux d'oeufs, puis les mélangés en rajoutant petit à petit le lait et d'huile jusqu'à obtention d'une pâte bien lisse.
 
-3. Beurrer le moule, versés les mélanges à l'interieur, puis placés les quartiers de pommes dessus. Faire cuire 30 minutes à 180° dans le four traditionnel ou 20 minutes à 180° dans le four chaleur tournant.
+3. Beurrer le moule, verser le mélange à l'interieur, puis placer les quartiers de pommes dessus. Faire cuire 30 minutes à 180° dans un four traditionnel ou 20 minutes à 180
 
-4. Monter la crème: faire fondre le beurre, puis versé dans une saladier en rajoutant le sucre et l’œuf. A l'aide un fouet mélangé les jusqu'au la crème blanchir.
-
-5. Sortir le moule du four puis versé la crème dessus, continu la cuisson pendant 30 minutes à 180° dans le four traditionnel ou 20 minutes à 180° dans le four chaleur tournant.
-Déguster tiède ou froid. 
+6. Déguster tiède ou froid. 
