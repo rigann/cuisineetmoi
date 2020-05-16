@@ -7,9 +7,7 @@ tags:
 - aubergine
 date: 2020-04-30
 lastmod: 2020-04-30
-minuteRead: 30
-readingtime: 25
-.Params.readingtime : 45
+cookingTime: 45m
 ---
 Petit résumé de la recette et les émotions que l'on souhaite partager en image.
 

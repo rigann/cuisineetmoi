@@ -1,8 +1,8 @@
 +++
 categories = ["accompagnement"]
 cover = "/img/photo boulette de boeuf.jpg"
-date = 2020-04-29T04:00:00Z
-lastmod = 2020-04-29T04:00:00Z
+date = 2020-04-29
+lastmod = 2020-04-29
 tags = ["boeuf"]
 title = "Boulette de boeuf"
 draft = true

@@ -1,7 +1,7 @@
 ---
 title: About Me
-date: 2020-04-14T04:15:20.000+00:00
-lastmod: 2020-04-28T04:15:20.000+00:00
+date: 2020-04-14
+lastmod: 2020-04-28
 
 ---
 Hello, my name is Mathorea.

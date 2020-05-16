@@ -9,9 +9,8 @@ tags:
 date: 2020-04-29
 draft: true
 lastmod: 2020-04-29
-minuteRead: 30
-readingtime: 25
-.Params.readingtime : 45
+cookingTime: 30
+
 ---
 Petit résumé de la recette et les émotions que l'on souhaite partager.
 
