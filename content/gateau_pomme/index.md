@@ -18,8 +18,6 @@ Gateau pomme classique
 
 ## Ingrédients
 
-![ingredient](01.jpg)
-
 - 150g de farine 
 - 130g de sucre 
 - 100g de lait
@@ -30,6 +28,7 @@ Gateau pomme classique
 - 4 pommes
 - 1 pincée de sel
 
+![ingredient](01.jpg)
 
 ### Pour la crème
 - 70g de beurre
