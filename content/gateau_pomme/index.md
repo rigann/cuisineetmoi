@@ -1,6 +1,6 @@
 ---
 title: "Gâteau aux pommes"
-cover: "/img/caramel.jpg"
+cover: "/gateau_pomme/cover.jpg"
 categories:
  - desert
 tags:
@@ -13,7 +13,7 @@ cookingTime: 45 minutes
 
 
 ---
-Gateau pomme classique
+Gateau aux pommes classique pour les gourmands que nous sommes.
 <!--more--> 
 
 ## Ingrédients
@@ -45,12 +45,15 @@ Gateau pomme classique
 
 ![avant cuisson](02.jpg)
 
-4. Faire cuire 30 minutes à 180° (350°F) dans un four traditionnel ou 20 minutes à 180 au four chaleur tournante.
+4. Faire cuire 40 minutes à 180° (355°F) dans un four traditionnel ou 25 minutes à 180 au four à chaleur tournante.
 
-4. Pendant ce temps préparer la créme, faite fondre le beurre.
+4. Pendant ce temps préparer la crème, faite fondre le beurre.
 
 5. Dans un récipient, versez le sucre et l'oeuf et le beurre, puis les mélangez à l'aide d'un fouet jusqu'à obtention d'une crème bien lisse.
 
 6. Versez la crème sur le gâteau, puis laisser terminer la cuisson pendant 15 minutes.
 
 7. Dégustez tiède ou froid. 
+
+![final](cover.jpg)
+
