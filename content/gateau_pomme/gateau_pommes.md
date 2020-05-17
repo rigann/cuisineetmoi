@@ -18,6 +18,8 @@ Gateau pomme classique
 
 ## Ingrédients
 
+![ingredient](01.jpg)
+
 - 150g de farine 
 - 130g de sucre 
 - 100g de lait
@@ -40,12 +42,16 @@ Gateau pomme classique
 
 2. Prendre un grand saladier verser la farine, le sucre, la levure, le sucre de vanille, sel, les deux d'oeufs, puis les mélanger en rajoutant petit à petit le lait et d'huile jusqu'à obtention d'une pâte bien homogène.
 
-3. Beurrer le moule, verser le mélange, puis placer les quartiers de pommes dessus. Faire cuire 30 minutes à 180°( 350°F) dans un four traditionnel ou 20 minutes à 180 au four chaleur tournante
+3. Beurrer le moule, verser le mélange, puis placer les quartiers de pommes dessus. 
 
-4. Préparation de la créme, faite fond le beurre
+![avant cuisson](02.jpg)
 
-5. Dans un récipient, versez le sucre et l'oeuf et le beurre, puis les mélangez à l'aid un fouette jusqu'à obtention d'une crème bien lisse
+4. Faire cuire 30 minutes à 180° (350°F) dans un four traditionnel ou 20 minutes à 180 au four chaleur tournante.
 
-6. Versez la crème sur le gâteau, puis laisser terminer la cuisson 15 minutes
+4. Pendant ce temps préparer la créme, faite fondre le beurre.
+
+5. Dans un récipient, versez le sucre et l'oeuf et le beurre, puis les mélangez à l'aide d'un fouet jusqu'à obtention d'une crème bien lisse.
+
+6. Versez la crème sur le gâteau, puis laisser terminer la cuisson pendant 15 minutes.
 
 7. Dégustez tiède ou froid. 
