@@ -1,8 +1,7 @@
 ---
 title: Rigatoni thon tomate seche cacahuete
-date: 2020-04-15T01:52:06.000+00:00
-lastmod: 2020-04-27T23:00:00-05:00
-author: Mathorea
+date: 2020-04-15
+lastmod: 2020-04-27
 cover: "/img/rigatoni/final.jpg"
 categories:
 - plat
@@ -13,7 +12,6 @@ tags:
 - pate
 draft: false
 ---
-# Rigatoni aux thons, tomate séché saupoudré cacahuète
 
 Ce plat est facile à faire et fait plaisir à la famille.
 
@@ -54,13 +52,16 @@ Ce plat est facile à faire et fait plaisir à la famille.
    * ouvrir la boite de thon,
    * écraser l'ail,
    * mélanger la sauce de soja claire avec l'eau et la cuillère de cassonade.
-2. Egouter les pâtes dans une grande passoire puis rincer à l'eau froide
+
+2. Égoutter les pâtes dans une grande passoire puis rincer à l'eau froide
+
 3. Pré-chauffer la casserole:
    * rajouter 4 cuillères à soupes du huiles d'olive cuire pendant 30 seconde
    * rajouter d'ail cuire 10 seconde
    * rajouter les poivrons et les tomates séchées
    * laisser cuire 2 minutes
    * enfin rajouter les pâtes et laisser le tout cuire 5 minutes à feu doux.
+
 4. Pré-chauffer le wok puis rajouter deux cuillères à soupe cuire pendant 30 secondes
    * rajouter d'ail cuire 10 seconde
    * rajouter les brocoli faire revenir pendant 5 minutes

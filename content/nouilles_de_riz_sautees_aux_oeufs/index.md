@@ -2,13 +2,11 @@
 title: "Nouilles de riz sautées aux œufs"
 cover: "/nouilles_de_riz_sautees_aux_oeufs/cover.jpg"
 categories:
-- Nouilles de riz
-- sauté
+- nouilles
 date: 2020-04-29
 draft: true
 lastmod: 2020-04-29
 cookingTime: 30 mins
-
 ---
 Nouilles facile à faire.
 
