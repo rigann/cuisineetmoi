@@ -1,5 +1,6 @@
 ---
-title: "NOM KROK"
+title: "Nom krok"
+cover: "/nom_krok/cover.jpg"
 categories:
 tags:
 - Riz
@@ -11,7 +12,7 @@ draft: true
 portion: 24 boules
 
 ---
-Petit résumé de la recette et les émotions que l'on souhaite partager en image.
+Nom Krok maison.
 
 <!--more--> 
 

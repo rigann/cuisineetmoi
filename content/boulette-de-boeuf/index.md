@@ -1,5 +1,5 @@
 ---
-title: "Gâteau aux pommes"
+title: "Boulette de boeuf"
 cover: "/boulette-de-boeuf/cover.jpg"
 categories:
 tags:
@@ -8,7 +8,7 @@ date: 2020-05-16
 draft: true
 preparationTime: 15 minutes 
 cookingTime: 45 minutes
-
+portion: 4 p
 ---
 Boulette de boeuf maison, on sait ce qu'il y a dedans.
 <!--more--> 
@@ -23,7 +23,7 @@ Boulette de boeuf maison, on sait ce qu'il y a dedans.
 - 1/2 teaspoon black pepper
 - 10g salt
 
-**Method**
+## Method
 
 1. 
 
