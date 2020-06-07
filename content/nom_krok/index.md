@@ -12,9 +12,22 @@ draft: true
 portion: 24 boules
 
 ---
-Nom Krok maison.
 
+Au Cambodge Nom Krok est un casse-croûte au goût salé croustillant à l'extérieur et fondant à l'intérieur. 
 <!--more--> 
+
+On les prépare à partir de la farine de riz et de lait de coco, cuite dans une plaque chauffante en fonte qui se compose des plusieurs demi sphères.
+On les déguste chaud avec de la sauce vinaigrette sucrée et salée parfumée au lait de coco.
+Habituellement en vente sur un chariot ambulant en fin d'après midi, à côté d'établissements scolaire, du marché ou devant les habitations.
+
+La recette présenté ci-dessous est l'original Nom Krok Khmer mais vous pouvez le transformer en plat complet en les garnissant de viande hachée, de fruits de mer, de germes de soja ou bambou. Je l'ai testé pour vous et c'est vraiment délicieux... à vos envies.
+
+
+## Ustensile
+
+- Plaque chauffante Nom Krok
+![plaque chauffante Nom Krok](plaque.jpg) 
+
 
 ## Ingrédients pour 4 personnes
 
@@ -67,3 +80,4 @@ Nom Krok maison.
 Placez 6 boules par personne dans une assiette creuse, puis arrosez deux cuillères à soupe de sauce vinaigrette, c'est prêt à être déguster.
 
 Bonne dégustation :)
+

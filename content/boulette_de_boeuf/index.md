@@ -1,6 +1,6 @@
 ---
 title: "Boulette de boeuf"
-cover: "/boulette-de-boeuf/cover.jpg"
+cover: "/boulette_de_boeuf/cover.jpg"
 categories:
 tags:
 - boeuf
