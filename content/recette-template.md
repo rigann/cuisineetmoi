@@ -1,5 +1,6 @@
 ---
 title: "NOM KROK"
+cover: "/riz_loc_lak/cover.jpg"
 categories:
 tags:
 - Riz
