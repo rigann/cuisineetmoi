@@ -1,10 +1,10 @@
 ---
-title: "NOM KROK"
-cover: "/riz_loc_lak/cover.jpg"
+title: "Template"
+cover: "/recette/cover.jpg"
 categories:
 tags:
 - Riz
-- Lait de coco
+
 date: 2020-06-05
 preparationTime: 15 mins
 cookingTime: 30 mins
