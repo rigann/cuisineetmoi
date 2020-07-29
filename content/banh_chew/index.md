@@ -52,27 +52,20 @@ image.
 
 ## Préparation ##
 
-1. Dans un grand bol mélangez tout les ingrédients de pâte, sauf les puis les réservez.
-2. fais cuire les graines de soja jaune dans un casserole pendant 10 minutes, puis les légoutés et réservés, 
+1. Dans un grand bol mélangez tout les ingrédients de pâte, puis réservez les.
+2. fais cuire les graines de soja jaune dans un casserole pendant 10 minutes, puis égouttez les et réservez les dans un bol, 
 3. Hachez d'ail, ciselez d'oignon, puis les réservez 
 4. Chauffez les 3 c à s d'huile dans le wok, rajoutez d'ail et d'oignon faire revenir 2 minutes, incorporez le porc haché, la sauce poisson, le cassonade, fais revenir jusqu'au la viande soit cuire puis les réservez.    
 
 
 ## Cuisson ##
 
-1. Faites chauffer le poêle de Takoyaki à feu moyen, huilez, laissez bien préchauffer pour avoir une température homogène.
+1. Faites chauffer le poêle à crêpe avec une culière d'huile, puis versez .
 
-2. Prenez le récipient de pâte
-    - remplissez les creux du poêle de Takoyaki à l'aide une louche
-    - mélangez bien la pâte à avant chaque remplissage, 
-    - laissez cuire pendant 5 minutes avec le couvercle
+2. Continuez à cuire les crêpes jusqu'à épuisement de la pâte.
 
-3. Démoulez la boule de nom krok à l'aide deux cuillères à soupe, puis rassemblez les demi spheres ensemble, déposez les sur une grande assiette de service.
+## Dressage ##
 
-4. Continuez à cuire les nom krok jusqu'à épuisement de la pâte.
-
-## Dressage
-
-Placez 6 boules par personne dans une assiette creuse, puis arrosez deux cuillères à soupe de sauce vinaigrette, c'est prêt à être déguster.
+Placez .
 
 Bonne dégustation :)

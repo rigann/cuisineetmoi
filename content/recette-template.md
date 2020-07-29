@@ -67,3 +67,5 @@ Petit résumé de la recette et les émotions que l'on souhaite partager en imag
 Placez 6 boules par personne dans une assiette creuse, puis arrosez deux cuillères à soupe de sauce vinaigrette, c'est prêt à être déguster.
 
 Bonne dégustation :)
+
+![resultat](cover.jpg)

@@ -6,7 +6,7 @@ categories:
 tags:
 - salade
 - chou
-date: 2020-06-05
+date: 2020-07-11
 preparationTime: 30 mins
 cookingTime: 30 mins
 draft: false

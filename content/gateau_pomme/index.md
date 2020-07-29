@@ -4,10 +4,10 @@ cover: "/gateau_pomme/cover.jpg"
 categories:
  - desert
 tags:
-- pomme
+- pommes
 - gateau
 date: 2020-05-16
-draft: true
+draft: false
 preparationTime: 15 minutes 
 cookingTime: 45 minutes
 
@@ -37,15 +37,15 @@ Gateau aux pommes classique pour les gourmands que nous sommes.
 
 ## Préparation
 
-1. Éplucher les pommes, puis les couper en quartiers.
+1. Prendre un grand saladier verser la farine, le sucre, la levure, le sucre de vanille, le sel, les deux oeufs, puis les mélanger en rajoutant petit à petit le lait et l'huile jusqu'à obtention d'une pâte bien homogène.
 
-2. Prendre un grand saladier verser la farine, le sucre, la levure, le sucre de vanille, sel, les deux d'oeufs, puis les mélanger en rajoutant petit à petit le lait et d'huile jusqu'à obtention d'une pâte bien homogène.
+2. Éplucher les pommes, puis les couper en quartiers.
 
 3. Beurrer le moule, verser le mélange, puis placer les quartiers de pommes dessus. 
 
 ![avant cuisson](02.jpg)
 
-4. Faire cuire 40 minutes à 180° (355°F) dans un four traditionnel ou 25 minutes à 180 au four à chaleur tournante.
+4. Faire cuire 50 minutes à 180° (355°F) dans un four traditionnel ou 35 minutes à 180 au four à chaleur tournante.
 
 4. Pendant ce temps préparer la crème, faite fondre le beurre.
 
@@ -53,7 +53,7 @@ Gateau aux pommes classique pour les gourmands que nous sommes.
 
 6. Versez la crème sur le gâteau, puis laisser terminer la cuisson pendant 15 minutes.
 
-7. Dégustez tiède ou froid. 
+7. Dégustez de préfénce froid pour que le gateau croustille. 
 
 ![final](cover.jpg)
 
