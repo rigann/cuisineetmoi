@@ -2,7 +2,7 @@
 title: "Gâteau aux pommes"
 cover: "/gateau_pomme/cover.jpg"
 categories:
- - desert
+ - dessert
 tags:
 - pommes
 - gateau

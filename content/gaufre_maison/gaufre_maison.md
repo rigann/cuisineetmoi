@@ -2,7 +2,7 @@
 title: "Gaufre maison"
 cover: "/gaufre_maison/cover.jpg"
 categories:
- - desert
+ - dessert
 tags:
 - Farine blé
 - Farine riz
