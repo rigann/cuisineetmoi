@@ -4,7 +4,7 @@ cover: "/nouilles_de_riz_sautees_aux_oeufs/cover.jpg"
 categories:
 - nouilles
 date: 2020-04-29
-draft: true
+draft: false
 lastmod: 2020-04-29
 cookingTime: 30 mins
 ---
@@ -42,4 +42,6 @@ Nouilles facile à faire.
 
 ## Dressage de l'assiette ##
 
-Réparties les nouilles dans 4 d’assiettes, puis parsemé avec le reste des ciboulettes et les cacahuètes. 
+Répartir les nouilles dans 4 d’assiettes, puis parsemer avec le reste des ciboulettes et les cacahuètes. 
+
+![final](cover.jpg)

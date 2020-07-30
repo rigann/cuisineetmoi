@@ -12,7 +12,7 @@ draft: false
 portion: 12 muffins
 
 ---
-Ces muffins faciles à réaliser sont tendres et moelleux, avec un agréable goût de banane. En y ajoutant des pépites de chocolat, vous les rendez tout simplement irrésistibles. Des douceurs pour le plaisir des grands et des petits !
+Ces muffins faciles à réaliser sont tendres et moelleux, avec un agréable goût de banane. En y ajoutant des pépites de chocolat, vous les rendez tout simplement irrésistibles. Des douceurs pour le plaisir des petits et des grands !
 <!--more--> 
 
 ## Ingrédients pour 4 personnes
@@ -46,3 +46,5 @@ Cuire jusqu’à ce qu’un cure-dents inséré au centre d’un muffin en resso
 ## Conservation
 
 Conservez dans des contenants hermétiques jusqu’à 2 jours au réfrigérateur ou jusqu’à 1 mois au congélateur.
+
+![final](cover.jpg)

@@ -10,9 +10,9 @@ date: 2020-06-01
 prepareTime: 25 min
 cookingTime: 60 min
 portion: 4p
-draft: true
+draft: false
 ---
-C'est un plat complète qu'on concocte avec des ingrédients simple à trouver. Au final, c'est un plat coloré et qui est facile à déguster.
+C'est un plat complèt qu'on concocte avec des ingrédients simple à trouver. Au final, c'est un plat coloré et qui est facile à déguster.
 
 <!--more--> 
 
@@ -80,3 +80,5 @@ C'est un plat complète qu'on concocte avec des ingrédients simple à trouver. 
 ## Dressage de l'assiette ##
 
 Mettez le riz dans le centre de l'assiette puis disposez quelques tranches de tomate, de concombre et d'oignon et la viande sur une feuille de laitue. 
+
+![final](cover.jpg)

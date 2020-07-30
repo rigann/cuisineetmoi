@@ -81,3 +81,4 @@ Placez 6 boules par personne dans une assiette creuse, puis arrosez deux cuillè
 
 Bonne dégustation :)
 
+![final](cover.jpg)

@@ -7,10 +7,11 @@ tags:
 date: 2020-06-09
 preparationTime: 5 min
 cookingTime: 1 min 
-draft: true
+draft: false
 portion: 250 ml
 ---
-Une sauce pour accompagné des nems ou bo bun.
+
+Une sauce pour accompagner des nems ou bo bun.
 
 <!--more--> 
 La recette donne environ 250 ml de sauce. 

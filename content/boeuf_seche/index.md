@@ -2,21 +2,21 @@
 title: "Boeuf séché au four"
 cover: "/boeuf_seche/cover.jpg"
 categories:
+- accompagnement
 tags:
-- Boeuf
+- boeuf
 date: 2020-04-29
 lastmod: 2020-04-29
 
 ---
-Le boeuf séché est un food street.On les trouve presque partout dans la rue Entre 15h à 19h dans un chariot, le vendeur les fait cuire aux feux de charbon, on les déguste avec d'une mélange de légumes variatés mariné saveur d'acidulé.   
-C'est une vrai challenge pour moi de réaliser cette recette, car dans mon pays, on les fait séché en pleine soleil à 40°C. 
-Au canada le ciel bleu est toujours présente avec la température négative :( Hop comment faire !!!!!!!!!
-
+Le boeuf séché est un food street. On les trouve presque partout dans la rue Entre 15h à 19h dans un chariot, le vendeur les cuit au feu de charbon. On les déguste avec un mélange de légumes variés marinés avec un pointe d'aciduté.
 <!--more-->
+
+C'est une vrai challenge pour moi de réaliser cette recette car dans mon pays, on les fait séché en pleine soleil à 40°C. 
 
 ## Ingrédients ##
 
-- 1,2Kg de Boeuf
+- 1,2 kg de boeuf
 
 ### Assaisonnements & condiments 
 
@@ -32,15 +32,15 @@ Au canada le ciel bleu est toujours présente avec la température négative :( 
 2. Dans un mortier ou blender met le galanga, l’ail,  les piments, puis les mixer, jus qu’obtenu une pâte semi-lisse
 3. Ajoutez assaisonnement & condiment dans la saladier du boeuf, mélange les bien à l'aide de deux spatules.
 4. Laissez les marinés environ 5H. 
-5. Mettez les tranches de bœuf sur une grille, puis la placé à mi-hauteur dans le four, et laissé séché pendant 4 heure à la température 90°C ou 195 °F. Pendant le temps de séchage laissé entre ouvert la port du four.
+5. Mettez les tranches de bœuf sur une grille, puis la placé à mi-hauteur dans le four, et laissé séché pendant 4 heures à 90°C ou 195 °F. Pendant le temps de séchage laisser la porte du four entre ouverte.
 
 ## Conservation ##
 
-Placez les boeuf séché dans une boite hermétique. La viande peut se conserver dans le frigidaire plusieurs mois.
+Placez le boeuf séché dans une boite hermétique. La viande peut se conserver dans le frigidaire plusieurs mois.
 
 ## Cuisson ##
 
-Dans un poêle un peu d'huile au feux vif 30 seconde de chaque côté.
+Dans un poêle les faire revenir avec un peu d'huile au feux vif 30 seconde de chaque côté.
 
 ## Dégustation ##
 
