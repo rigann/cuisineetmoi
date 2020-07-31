@@ -63,9 +63,11 @@ La préparation peut se faire la veille, on mélangera avec la sauce au moment d
 
 6. Au moment de servir, sortez le saladier de chou du frigidaire, versez la sauce vinaigrette et la moitié de cacahuète dans le saladier, puis mélangez-les à l'aide de deux spatules.
 
-![resultat](04.jpg)
+![saladier](04.jpg)
 
 ## Dressage ##
 
 Servez la salade dans une assiette puis saupoudrez de cacahuète écrasé.
 Bonne dégustation :)
+
+![resultat](cover.jpg)
