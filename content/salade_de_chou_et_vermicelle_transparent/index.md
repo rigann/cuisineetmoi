@@ -1,6 +1,6 @@
 ---
 title: "Salade de chou et vermicelle transparent"
-cover: "cover.jpg"
+cover: "salade_de_chou_et_vermicelle_transparent/cover.jpg"
 categories:
 - entrée
 tags:
@@ -8,7 +8,7 @@ tags:
 - chou
 - vermicelle transparent
 
-date: 2020-07-11
+date: 2020-07-30
 preparationTime: 30 mins
 cookingTime: 30 mins
 draft: false
