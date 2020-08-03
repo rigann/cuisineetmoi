@@ -8,7 +8,7 @@ tags:
 - chou
 - vermicelle transparent
 
-date: 2020-07-30
+date: 2020-07-11
 preparationTime: 30 mins
 cookingTime: 30 mins
 draft: false
@@ -37,9 +37,9 @@ La préparation peut se faire la veille, on mélangera avec la sauce au moment d
 ### Sauce vinaigrette
 
 - 3 c à s sauce de poisson
-- 5 c à s sucre de cassonade
-- 4 c à s vinaigre
-- 1 c à c de sel
+- 6 c à s sucre de cassonade
+- 4.5 c à s vinaigre
+- 1.5 c à c de sel
 - 13 cl d'eau tiède
 - 2 piment rouge
 - 3 gousses d'ail
@@ -63,11 +63,9 @@ La préparation peut se faire la veille, on mélangera avec la sauce au moment d
 
 6. Au moment de servir, sortez le saladier de chou du frigidaire, versez la sauce vinaigrette et la moitié de cacahuète dans le saladier, puis mélangez-les à l'aide de deux spatules.
 
-![saladier](04.jpg)
+![resultat](04.jpg)
 
 ## Dressage ##
 
 Servez la salade dans une assiette puis saupoudrez de cacahuète écrasé.
 Bonne dégustation :)
-
-![resultat](cover.jpg)
