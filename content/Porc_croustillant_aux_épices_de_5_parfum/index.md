@@ -1,10 +1,9 @@
 ---
-title: "Porc croustillant aux épices de 5 parfum"
-cover: "Porc_croustillant_aux_épices_de_5_parfum/cover.jpg"
+title: "Porc croustillant aux épices de cinq parfum"
+cover: "Porc_croustillant_aux_épices_de_cinq_parfum/cover.jpg"
 categories:
 tags:
-- Riz
-
+-Porc
 date: 2020-06-05
 preparationTime: 10 mins
 Repose: 12 Heures
