@@ -7,8 +7,8 @@ categories:
 
 tags:
 
-- farine de Riz
-- lait de coco
+- farine Riz
+- lait coco
 - curcuma 
 
 date: 2020-07-05
