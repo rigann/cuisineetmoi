@@ -1,6 +1,6 @@
 ---
 title: "Porc croustillant aux épices de cinq parfums"
-cover: "porc_croustillant_aux_épices_de_5_parfums/cover.jpg"
+cover: "/porc_croustillant_aux_epices_de_5_parfums/cover.jpg"
 categories:
 tags:
 - porc
