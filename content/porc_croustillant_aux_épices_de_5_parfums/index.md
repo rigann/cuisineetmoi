@@ -1,6 +1,6 @@
 ---
-title: "Porc croustillant aux épices de cinq parfum"
-cover: "Porc_croustillant_aux_épices_de_cinq_parfum/cover.jpg"
+title: "Porc croustillant aux épices de cinq parfums"
+cover: "porc_croustillant_aux_épices_de_5_parfums/cover.jpg"
 categories:
 tags:
 - porc
@@ -41,9 +41,11 @@ Toutes les étapes sont importantes, ce plat est réussi quand la chair est jute
 ![decoupe](03.jpg)
  
 2. Dans un bol mélangez la marinade de viande, étalez la marinade avec un pinceau sur tout la chair en évitant la couenne.
+
 ![decoupe](04.jpg)
 
 3. Déposez la poitrine de porc sur le papier aluminium côté couenne en haut.
+
 ![decoupe](05.jpg)
 
 4. Préparez la marinade du couenne de porc dans un bol, puis étalez les sur la couenne.
@@ -56,6 +58,7 @@ Toutes les étapes sont importantes, ce plat est réussi quand la chair est jute
 1. Le lendemain préchauffez le four au thermostat 7 (400F ou 204°C)
 2. Sortez la poitrine de porc du réfrigérateur, puis percez de nombreux petits trous sur toute la surface de la couenne avec un couteau bien pointu.
 3. Enveloppez la poitrine de porc avec le papier d'aluminium
+
 ![decoupe](07.jpg)
 
 4. Mettez la au four coté couenne en haut, cuisez la pendant 45 minutes.

@@ -1,6 +1,6 @@
 ---
-title: "vermicelle_tapioca _sautée_ aux_ poulet_ et_ champions_ noir"
-cover: "/recette/cover.jpg"
+title: "Vermicelle de tapioca sautée au poulet et champions noirs"
+cover: "/vermicelle_tapioca_sautee_au_poulet_et_champion_noir/cover.jpg"
 categories:
 tags:
 - vermicelle tapioca
@@ -35,9 +35,9 @@ Petit résumé de la recette et les émotions que l'on souhaite partager en imag
 ### bouillion de poulet
 
 - carcasse de poulet
-- 1L d'eau
+- 1 L d'eau
 - 2 carrottes
-- 1 d'ognion
+- 1 d'oignon
 
 ## Préparation ##
 
