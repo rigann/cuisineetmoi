@@ -1,5 +1,5 @@
 ---
-title: "Boeuf séché au four"
+title: "boeuf seche"
 cover: "boeuf_seche/cover.jpg"
 categories:
 - accompagnement
@@ -44,7 +44,7 @@ C'est une vrai challenge pour moi de réaliser cette recette car dans mon pays, 
 
 ## Conservation ##
 
-![resultat](06.jpg)
+![resultat](cover.jpg)
 
 Placez le boeuf séché dans une boite hermétique. La viande peut se conserver dans le frigidaire plusieurs mois.
 
