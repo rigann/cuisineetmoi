@@ -1,11 +1,15 @@
 ---
 title: "Boeuf séché au four"
-cover: "/boeuf_seche/cover.jpg"
+cover: "boeuf_seche/cover.jpg"
 categories:
 - accompagnement
+- entrée
 tags:
+
 - boeuf
-date: 2020-04-29
+
+date: 2020-09-10
+
 lastmod: 2020-04-29
 
 ---
@@ -34,7 +38,13 @@ C'est une vrai challenge pour moi de réaliser cette recette car dans mon pays, 
 4. Laissez les marinés environ 5H. 
 5. Mettez les tranches de bœuf sur une grille, puis la placé à mi-hauteur dans le four, et laissé séché pendant 4 heures à 90°C ou 195 °F. Pendant le temps de séchage laisser la porte du four entre ouverte.
 
+![decoupe](04.jpg)
+
+![decoupe](05.jpg)
+
 ## Conservation ##
+
+![resultat](06.jpg)
 
 Placez le boeuf séché dans une boite hermétique. La viande peut se conserver dans le frigidaire plusieurs mois.
 
