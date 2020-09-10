@@ -1,70 +1,39 @@
 ---
-title: "Template"
+title: "Cuission du quinoa"
 cover: "/recette/cover.jpg"
 categories:
 tags:
 - Riz
 
 date: 2020-06-05
-preparationTime: 15 mins
-cookingTime: 30 mins
+preparationTime: 5 mins
+cookingTime: 20 mins
 draft: true
-portion: 24 boules
+
 
 ---
-Petit résumé de la recette et les émotions que l'on souhaite partager en image.
-
+La cuission de quinoa est très simple à réaliser. la préparation est très similaire à la cuission du riz
+Le quinoa accompagne très bien avec sauce tomate, roti de viande ou bien de poission à la crème, c'est un vrai régal pour tout la famille.
+J'ai servi dans la boite a lunch, mes enfants adorent sa texture et son goût comme les graines de maÏ.
+ 
 <!--more--> 
 
 ## Ingrédients pour 4 personnes
 
-- 150 g de farine de riz
-- 150 g de riz jasmin cuit
-- 40 cl d'eau
-- 40 cl de lait de coco
-- 1 botte de ciboulette
-- 1 c à s de sucre
-- 1 c à c de sel
-
-### Sauce vinaigrette
-
-- sauce de poisson
-- sucre de cassonade
-- eau
-- vinaigre
-- 1 piment rouge
+- 250 g de quinoa 
+- 500 ml de'eau ou bouillon poulet ou légumes
+- 5 c à s d'huile d'olive
+- 1 grosse d'oignon
 - 1 gousse d'ail
+- 1 c à c de sel (quand la cuission fait avec d'eau) 
 
-
-## Préparation ##
-
-1. Lavez et ciselez les ciboulettes, réservez les dans un bol.
-
-2. Dans le blender, mixez le riz cuit avec l'eau pendant 2 minutes, puis réservez la préparation dans un grand recipient.
-
-3. Versez la farine de riz, le lait de coco, le sel et le sucre, puis mélangez les bien, rajoutez les ciboulettes ciselées. La pâte est prête à cuire.
-
-4. Sauce vinaigrette: 
-- Ciselez l'ail et le piment, puis réservez dans un bol. 
-- Versez la sauce de poisson, le sucre, le vinaigre et l'eau et mélangez les jusqu'à dissolution du sucre. 
-- La sauce est prête à être servis.
-
+ 
 ## Cuisson ##
 
-1. Faites chauffer le poêle de Takoyaki à feu moyen, huilez, laissez bien préchauffer pour avoir une température homogène.
-
-2. Prenez le récipient de pâte
-    - remplissez les creux du poêle de Takoyaki à l'aide une louche
-    - mélangez bien la pâte à avant chaque remplissage, 
-    - laissez cuire pendant 5 minutes avec le couvercle
-
-3. Démoulez la boule de nom krok à l'aide deux cuillères à soupe, puis rassemblez les demi spheres ensemble, déposez les sur une grande assiette de service.
-
-4. Continuez à cuire les nom krok jusqu'à épuisement de la pâte.
-
-## Dressage
-
-Placez 6 boules par personne dans une assiette creuse, puis arrosez deux cuillères à soupe de sauce vinaigrette, c'est prêt à être déguster.
+1. Faites chauffer 5 c à s d'huile d'olive dans une casserole à feux vif
+2. Ajoutez l'oignon et l'ail, faites les cuire pendant 3 à 5 minutes jusqu'à ce qu'ils soient fondus.
+3. Versez le quinoa et l'eau (ou le bouillon).
+4. Portez à ébullition, puis mettez à feu doux et laissez mijoter environ 20 minutes ou jusqu’à ce que l’eau se soit évaporée et que le quinoa soit tendre.
 
 Bonne dégustation :)
 

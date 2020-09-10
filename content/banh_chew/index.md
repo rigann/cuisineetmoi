@@ -53,19 +53,20 @@ image.
 ## Préparation ##
 
 1. Dans un grand bol mélangez tout les ingrédients de pâte, puis réservez les.
-2. fais cuire les graines de soja jaune dans un casserole pendant 10 minutes, puis égouttez les et réservez les dans un bol, 
-3. Hachez d'ail, ciselez d'oignon, puis les réservez 
-4. Chauffez les 3 c à s d'huile dans le wok, rajoutez d'ail et d'oignon faire revenir 2 minutes, incorporez le porc haché, la sauce poisson, le cassonade, fais revenir jusqu'au la viande soit cuire puis les réservez.    
+2. faites cuire les graines de soja jaune dans un casserole pendant 10 minutes, puis égouttez les et réservez les dans un bol, 
+3. Hachez d'ail, ciselez d'oignon, puis réservez les,
+4. Chauffez les 3 c à s d'huile dans le wok, rajoutez d'ail et d'oignon faire revenir 2 minutes, incorporez le porc haché, la sauce poisson, le cassonade, fais revenir jusqu'au la viande soit cuire puis réservez les,    
 
 
 ## Cuisson ##
 
-1. Faites chauffer le poêle à crêpe avec une culière d'huile, puis versez .
+1. Faites chauffez le poêle à crêpe avec une culière d'huile, puis versez une louche de pâte à crêpes.
+2. mettez une poignée de germes de soja sur la crêpe, puis couvrez le 
 
 2. Continuez à cuire les crêpes jusqu'à épuisement de la pâte.
 
 ## Dressage ##
 
-Placez .
+Placez  .
 
 Bonne dégustation :)
