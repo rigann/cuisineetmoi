@@ -3,10 +3,10 @@ title: "Porc croustillant aux épices de cinq parfum"
 cover: "Porc_croustillant_aux_épices_de_cinq_parfum/cover.jpg"
 categories:
 tags:
--Porc
+- porc
 date: 2020-06-05
 preparationTime: 10 mins
-repos: 12 Heures
+repos: 12 h
 cookingTime: 60 mins
 draft: true
 
