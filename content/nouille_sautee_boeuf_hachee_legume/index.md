@@ -2,7 +2,11 @@
 title: "Pâtes sautée aux boeuf hachée et ses légumes"
 cover: "/nouille_sautee_boeuf_hachee_legume/cover.jpg"
 categories:
+
+- plat
+
 tags:
+
 - Nouille
 - Boeuf
 
@@ -62,11 +66,11 @@ Il faut faire sauter rapidement les pâtes de rie à feu vif,
 ![](6.jpg)
 
 2. Chauffez dans un wok 2 c à s de l'huile à vif , rajoutez la viande haché (préparation N°2), puis faites les revenir jusqu'à ce qu’ils soient cuire, soit environ 3 minutes, puis versez le récipient de légume,
-![](6.jpg)
+![](7.jpg)
 
 
 3. Chauffez 4 c à s de l'huile dans un wok à feu vif puis faites doré 3/4 d'ail restant, versez le mélange de la sauce restant et laissez les bouillir puis rajoutez les nouilles puis remuez en soulevant délicatement les nouilles pour bien les enrober environ 2 minute à l’aide d’une paire de baguette 
-![](7.jpg)
+![](8.jpg)
 
 
 ## Dressage
