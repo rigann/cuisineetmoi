@@ -1,8 +1,8 @@
 ---
-title: "Vermicelle de tapioca sautée au poulet et champions noirs"
-cover: "/vermicelle_de_tapioca_sautee_au_poulet_et_champions_noir/cover.jpg"
+title: "Vermicelle de tapioca sautée au poulet et champignons noirs"
+cover: "/vermicelle_de_tapioca_sautee_au_poulet_et_champignons_noir/cover.jpg"
 categories:
--plat
+- plat
 tags:
 - vermicelle tapioca
 - champignon noir
