@@ -1,5 +1,5 @@
 ---
-title: "bo bun végétarien"
+title: "bo bun vegetarien"
 cover: "/bo_bun_vegetarien/cover.jpg"
 categories:
 - plat
@@ -12,6 +12,8 @@ date: 2020-09-22
 preparationTime: 15 mins
 cookingTime: 20 mins
 draft: true
+portion: 4 personnes
+
 
 ---
 Le bo bun est un délicieuse salade vietnamienne traditionnellement fait à base de vermicelles de riz, boeuf grillé, crudité et sauce nuoc mam. 
@@ -24,14 +26,13 @@ Voici les ingrédients et les méthodes qui vous permettent de grater votre ento
 
 ![ingredient](01.jpg)
 
-- 450 g de vermicelle de riz
+- 450g de vermicelle de riz
 - 4 blocs de tofu ferme de 400 g
 - 2 grosse d'oignon (tranchées)
 - 1 gousse d'ail (haché)
-- 50 g de cacahuète haché
+- 50g de cacahuète haché
 
 les légumes
-
 - 2 carottes (épluché et rapé)
 - 1/2 de concombre (lavé et rapé grossièrement)
 - quelque feuilles de salade (lavé et coupé grossièrement)
@@ -40,7 +41,6 @@ les légumes
 - 1/2 botte de coriandre (lavé et ciselé)
 
 la sauce nem sans nuoc mam
-
 - 13 cl d’eau chaude
 - 4 c à s de sucre cassonade
 - 3 c à s de vinaigres de pomme
