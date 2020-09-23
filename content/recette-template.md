@@ -1,16 +1,13 @@
 ---
-title: "Cuission du quinoa"
+title: "Cuisson du quinoa"
 cover: "/recette/cover.jpg"
 categories:
 tags:
 - Riz
-
 date: 2020-06-05
 preparationTime: 5 mins
 cookingTime: 20 mins
 draft: true
-
-
 ---
 La cuission de quinoa est très simple à réaliser. la préparation est très similaire à la cuission du riz
 Le quinoa accompagne très bien avec sauce tomate, roti de viande ou bien de poission à la crème, c'est un vrai régal pour tout la famille.
