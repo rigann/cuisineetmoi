@@ -10,7 +10,6 @@ preparationTime: 15 mins
 cookingTime: 30 mins
 draft: true
 portion: 24 boules
-
 ---
 
 Au Cambodge Nom Krok est un casse-croûte au goût salé croustillant à l'extérieur et fondant à l'intérieur. 

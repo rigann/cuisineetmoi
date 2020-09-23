@@ -1,26 +1,24 @@
 ---
-title: "bo bun vegetarien"
+title: "Bo Bun vegetarien"
 cover: "/bo_bun_vegetarien/cover.jpg"
 categories:
 - plat
-
 tags:
 - vermicelle riz
 - tofu
-
 date: 2020-09-22
 preparationTime: 15 mins
 cookingTime: 20 mins
 draft: true
 portion: 4 personnes
-
-
 ---
+
 Le bo bun est un délicieuse salade vietnamienne traditionnellement fait à base de vermicelles de riz, boeuf grillé, crudité et sauce nuoc mam. 
-Aujourd'hui , j'adapte cette plat en version 100 % végétarien. le tofu frit remplace le viande de boeuf . Ma sauce est preparer à bas de sel, sucre cassonade et vinaigre de pomme. 
+Aujourd'hui , j'adapte cette plat en version 100 % végétarien. le tofu frit remplace le viande de boeuf. Ma sauce est preparer à bas de sel, sucre cassonade et vinaigre de pomme.
+
 <!--more--> 
 c'est un plat simple, facile et rapide surtout il est fraîchement délicieuses pour la journée en soleil.
-Voici les ingrédients et les méthodes qui vous permettent de grater votre entourage:)
+Voici les ingrédients et les méthodes qui vous permettent de grater votre entourage :)
 
 ## Ingrédients pour 4 personnes
 
@@ -52,11 +50,9 @@ la sauce nem sans nuoc mam
 
 1. Dans un grand casserole faites bouillir d'eau, puis rajoutez les vermicelles de riz, laissez les cuire jusqu'à ce qu'il devienne translucide, la cuisson dure 3 à 8 minutes selon d'épaisseur de vermicelle, 
 
-![decoupe](02.jpg)
 
 2. Egouttez et rincez les à d'eau froid, puis confectionnez les en boules et réservez les,
 
-![decoupe](03.jpg)
 
 3. Dans un grand assiette semi-creux mélangé les légumes puis réservez les au frigidaire,
 
