@@ -15,4 +15,4 @@ Je suis maman de deux enfants qui aime faire déguster ses plats du pays  et ses
 Depuis tout petite j'aime picorer et déguster différents mets et je m’amuse à les reproduire à la maison. 
 L'idée de créer le blogue cuisine était toujours mon rêve. Excuse le manque de temps était constamment présence pour ce page, bizarrement grâce au période de confinement "le COVID-19" mon blogue est né :)))) :))))
 
-EN France notre déjeuner était confier au cantine de société et de scolaire pour nos enfants. Ici a montréal, On le remplace par la boite à lunch ou super wave à préparer chez soi. Vous imaginez deux vrai repas ainsi que l'idée pour les goûtes,
+EN France notre déjeuner était confier au cantine de société et de scolaire pour nos enfants. Ici a montréal, On le remplace par la boite à lunch Tupperware à préparer chez soi. Vous imaginez deux vrai repas ainsi que l'idée pour les goûtes,
