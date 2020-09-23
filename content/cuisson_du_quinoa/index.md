@@ -12,10 +12,10 @@ cookingTime: 20 mins
 draft: true
 ---
 La cuisson de quinoa est très simple à réaliser. la préparation est très similaire à la cuisson du riz. On peut le service en tant que l'entré ou bien le plat principale.
-Le quinoa accompagne très bien avec sauce tomate, rôti de viande ou bien de saucisse cuire à BBQ/ poêle, c'est un vrai régal pour tout la famille.
-J'ai servi dans la boite a lunch, mes enfants adorent sa texture et son goût comme les graines de maÏ.
  
 <!--more--> 
+Le quinoa accompagne très bien avec sauce tomate, rôti de viande ou bien de saucisse cuire à BBQ/ poêle, c'est un vrai régal pour tout la famille.
+J'ai servi dans la boite a lunch, mes enfants adorent sa texture et son goût comme les graines de maÏ.
 
 ## Ingrédients pour 4 personnes
 
