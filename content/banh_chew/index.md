@@ -1,6 +1,6 @@
 ---
 title: "banh chew"
-cover: "banh_chew/cover.jpg"
+cover: "/banh_chew/cover.jpg"
 categories:
 
 - plat
