@@ -1,6 +1,6 @@
 ---
 title: "Salade de chou et vermicelle transparent"
-cover: "salade_de_chou_et_vermicelle_transparent/cover.jpg"
+cover: "/salade_de_chou_et_vermicelle_transparent/cover.jpg"
 categories:
 - entrée
 tags:

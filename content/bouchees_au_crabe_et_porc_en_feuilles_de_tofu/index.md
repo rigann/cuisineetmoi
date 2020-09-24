@@ -1,6 +1,6 @@
 ---
 title: "Bouchees au crabe et porc en feuilles de Tofu"
-cover: "bouchees_au_crabe_et_porc_en_feuilles_de_tofu/cover.jpg"
+cover: "/bouchees_au_crabe_et_porc_en_feuilles_de_tofu/cover.jpg"
 categories:
 
 - entrée
