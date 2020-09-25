@@ -13,6 +13,11 @@ Je m'appelle Mathorea, je suis d’origine Cambodgienne de la province de Battam
 Je suis maman de deux enfants qui aime faire déguster ses plats du pays  et ses découvertes culinaire à sa petite famille.
 
 Depuis tout petite j'aime picorer et déguster différents mets et je m’amuse à les reproduire à la maison. 
-L'idée de créer le blogue cuisine était toujours mon rêve. Excuse le manque de temps était constamment présence pour ce page, bizarrement grâce au période de confinement "le COVID-19" mon blogue est né :)))) :))))
+Mon blogue est né en 2020 pendant le périod de confinement la Covid-19 dans l'objectif de collecter mes recettes préférées, en vue gardé pour mes enfants et partager avec ma famille, mes amis et plus si affinités.
 
-EN France notre déjeuner était confier au cantine de société et de scolaire pour nos enfants. Ici a montréal, On le remplace par la boite à lunch Tupperware à préparer chez soi. Vous imaginez deux vrai repas ainsi que l'idée pour les goûtes,
+Tout les recettes dans mon blog sont la cuisine tout les jour, ca veut dire que ils sont simple à réaliser. si je peux le faire, alors vous aussi: à vos fourneaux!
+
+
+
+
+
