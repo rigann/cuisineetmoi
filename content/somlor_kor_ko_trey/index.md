@@ -30,12 +30,12 @@ Aujourd'hui je vous montre somlor kor ko trey, car le temps de cuisson est rapid
 - 200g d'épinard
 - 150g de graine de riz (à faire rissolé)
 - 5 c à c d'huile
-  Kreoeung
+- Kreoeung
 - 3 tiges de citronnelle (coupez en fines lamelle)
 - 6 feuilles kaffir (coupez en fines lamelle)
 - 6 gosses d'ail (épluchez et coupez en fines lamelle)
 - 1 c à c de curcuma en poudre
-  assaisonnement
+- assaisonnement
 - 4 c à s de sauce poison
 - 1/2 c à c de sel
 - 2 c à c de cassonade
