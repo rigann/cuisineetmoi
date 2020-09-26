@@ -1,8 +1,6 @@
 ---
 title: About Me
 date: 2020-04-14
-lastmod: 2020-06-06
-
 ---
 Hello, my name is Mathorea.
 
@@ -14,10 +12,11 @@ Je suis maman de deux enfants qui aime faire déguster ses plats du pays  et ses
 
 Depuis tout petite j'aime picorer et déguster différents mets et je m’amuse à les reproduire à la maison. 
 
-Mon blogue est né en 2020 pendant la période de confinement la Covid-19 dans l'objectif de collecter mes recettes préférées, en vue gardé pour mes enfants et partager avec ma famille, mes amis et plus si affinités.
+Mon blogue est né en 2020 pendant la période de confinement la Covid-19 dans l'objectif de collecter mes recettes préférées, en vue de garder pour mes enfants et partager avec ma famille et mes amis.
 
-Tout les recettes dans mon blog sont réaliser dans ma cuisine, photographier par moi même :)
-Ma cuisine tout les jour sont réaliser avec les produits simple à trouver et à cuisiner. si je peux le faire, alors vous aussi c'est à vous maintenant :)
+Tout les recettes dans mon blog sont réaliser dans ma cuisine et photographier par moi même.
+
+Ma cuisine de tous les jours est réalisé avec les produits simple à trouver et à cuisiner. Si je peux le faire, alors vous aussi, c'est à votre tour maintenant :)
 
 
 

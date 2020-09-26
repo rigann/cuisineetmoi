@@ -35,4 +35,4 @@ c'est la saison de pomme, la semaine dernier nous étions au verger pour la cuei
  
 Dégustez tiède seul ou avec une boule de crème glace bonne dégustation :)
 
-![resultat](cover.jpg)
+![resultat](cover.jpg) 

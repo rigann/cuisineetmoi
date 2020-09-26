@@ -6,18 +6,13 @@ categories:
 tags:
 - saumon
 - courge kabocha
-- citronnelle
-- kaffir
-- curcuma
 date: 2020-06-05
 preparationTime: 20 mins
 cookingTime: 15 mins
 draft: true
 ---
-Somlor kor ko est un plat Khmer très populaire au Cambodge. On peut cuisiner ce plat avec différents de viande poulet, porc, poisson et des variétés de légumes, c'est un plat cuire à petit feu et une touche de différents aromates. quand 
- 
+Somlor kor ko est un plat Khmer très populaire au Cambodge. On peut cuisiner ce plat avec différents de viande poulet, porc, poisson et des variétés de légumes, c'est un plat cuire à petit feu et une touche de différents aromates.
 <!--more--> 
-
 Aujourd'hui je vous montre somlor kor ko trey, car le temps de cuisson est rapide. J'adapte cet recette avec les ingrédients à lesquels je peux trouver dans ce pays. 
 
 ## Ingrédients pour 4 personnes
