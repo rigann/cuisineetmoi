@@ -6,7 +6,7 @@ categories:
 tags:
 - saumon
 - courge kabocha
-- citronnell
+- citronnelle
 - kaffir
 - curcuma
 date: 2020-06-05
@@ -15,10 +15,10 @@ cookingTime: 15 mins
 draft: true
 ---
 Somlor kor ko est un plat Khmer très populaire au Cambodge. On peut cuisiner ce plat avec différents de viande poulet, porc, poisson et des variétés de légumes, c'est un plat cuire à petit feu et une touche de différents aromates. quand 
-
-Aujourd'hui je vous montre somlor kor ko trey, car le temps de cuisson est rapide. J'adapte cet recette avec les ingrédients à lesquels je peux trouver dans ce pays. 
  
 <!--more--> 
+
+Aujourd'hui je vous montre somlor kor ko trey, car le temps de cuisson est rapide. J'adapte cet recette avec les ingrédients à lesquels je peux trouver dans ce pays. 
 
 ## Ingrédients pour 4 personnes
 
@@ -43,7 +43,7 @@ Aujourd'hui je vous montre somlor kor ko trey, car le temps de cuisson est rapid
 ## preparation ##
 
 1. versez les ingrédients de Kreoenug dans le robot, puis mixez les jusqu'obtenir une pâte lise,
-2. chauffez une poêle à sec à feu moyen, faites revenir les 150g de riz jusqu'à ce que tous les graines deviennent bien dorés, voire presque brunâtre, puis écrasez les avec le mortier ou mixer au mouliner afin d'obtenir une poudre,
+2. chauffez une poêle à sec à feu moyen, faites revenir les 150g de riz  jusqu'à ce que tous les graines deviennent bien dorés, voire presque brunâtre, puis écrasez les avec le mortier ou mixer au mouliner afin d'obtenir une poudre,
 3. Épluchez la papaye, enlevez les petites graines, coupez la papaye en fines lamelle ( 1 cm d'épaisseur et 5 cm de longueur)
 4. coupez les haricot vert environ 4cm
 5. coupez l'aubergine en fines lamelle 
