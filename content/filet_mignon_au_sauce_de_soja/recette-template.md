@@ -27,7 +27,7 @@ draft: true
 - 3 c à s huile d'olive
 - 2 tiges ciboulettes
 
-![ingredients](01.jpg)
+![ingredients](1.jpg)
 
 ### Assaisonnement ###
 
@@ -39,13 +39,13 @@ draft: true
 
 1. coupez filet mignon en tranche environ de 8cm, puis rajoutez 1 c à c sauce Magi, 2 c à s soja claire, 1 c à c cassonade, 1/2 c à c sel, 1/2 c à c poivre, laissez mariné, 
 
-![](02.jpg)
+![](2.jpg)
 
-![](03.jpg)
+![](3.jpg)
 
 2. ciselez d'oignon en dés
 
-![](04.jpg)
+![](4.jpg)
 
 3. taillez la ciboulette en rondel
 
@@ -53,17 +53,17 @@ draft: true
 
 1. Dans un wok chauffez 2 c à s huile d'olive et 1 c à s de beurre à feux vif, faites dorer de tranche filet mignon de 1,5 mins de chaque coté, puis réservez les,
 
-![](05.jpg)
+![](5.jpg)
 
-![](06.jpg)
+![](6.jpg)
 
-![](07.jpg)
+![](7.jpg)
 
 2. Rajoutez une c à s huile d'olive dans la même wok, faites dorer d'oignon pendant 8 mins, puis mettez des tranches de filet mignon 
 
-![](08.jpg)
+![](8.jpg)
 
-![](09.jpg)
+![](9.jpg)
 
 3. Incorporez d'assaisonnement, laissez cuire pendant 60 mins à feux moyen. 
 
