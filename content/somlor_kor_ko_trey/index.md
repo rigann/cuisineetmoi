@@ -1,5 +1,5 @@
 ---
-title: "somlor kor ko trey"
+title: "Somlor kor ko trey"
 cover: "/somlor_kor_ko_trey/cover.jpg"
 categories:
 - plat

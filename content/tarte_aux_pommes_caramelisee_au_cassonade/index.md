@@ -11,7 +11,7 @@ preparationTime: 15 mins
 cookingTime: 45 mins
 draft: true
 ---
-c'est la saison de pomme, la semaine dernier nous étions au verger pour la cueillette de pommes comme tout les ans au mois septembre.
+C'est la saison de pomme, la semaine dernier nous étions au verger pour la cueillette de pommes comme tout les ans au mois septembre.
 
  
 <!--more--> 

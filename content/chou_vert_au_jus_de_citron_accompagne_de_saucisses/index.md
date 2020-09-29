@@ -1,6 +1,6 @@
 ---
-title: "Chou vert au jus citron accompagne au saucisses"
-cover: "/Chou_vert_au_jus_citron_accompagne_au_saucisses/cover.jpg"
+title: "Chou vert au jus de citron accompagné de saucisses"
+cover: "/chou_vert_au_jus_de_citron_accompagne_de_saucisses/cover.jpg"
 categories:
 tags:
 
@@ -12,10 +12,8 @@ preparationTime: 20 mins
 cookingTime: 50 mins
 draft: true
 
-
 ---
-.
- 
+
 <!--more--> 
 
 ## Ingrédients pour 6 personnes
