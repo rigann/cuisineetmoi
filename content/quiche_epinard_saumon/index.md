@@ -82,4 +82,9 @@ portion: 6 personnes
 
 9. enfournez à 200°C ou 395 °F durant 30 min pour le four chaleur tournent et 50 min pour le four classique
 
+## dégustation ##
+cette quiche se déguste chaude ou tiède accompagnée d'une bonne salade composée.
+
+![resultat](15.jpg)
+
 Bonne dégustation :)
