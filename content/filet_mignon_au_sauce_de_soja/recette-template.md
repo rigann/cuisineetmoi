@@ -6,7 +6,7 @@ tags:
 - filet mignon
 date: 2020-09-28
 preparationTime: 15 mins
-cookingTime: 50 mins
+cookingTime: 60 mins
 draft: true
 ---
 .
@@ -65,7 +65,7 @@ draft: true
 
 ![](09.jpg)
 
-3. Incorporez d'assaisonnement, laissez cuire pendant 50 mins  à feux moyen. 
+3. Incorporez d'assaisonnement, laissez cuire pendant 60 mins à feux moyen. 
 
 ![](10.jpg)
 
