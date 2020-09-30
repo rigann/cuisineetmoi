@@ -1,6 +1,6 @@
 ---
 title: "boeuf seche"
-cover: "boeuf_seche/cover.jpg"
+cover: "/boeuf_seche/cover.jpg"
 categories:
 - accompagnement
 - entrée
