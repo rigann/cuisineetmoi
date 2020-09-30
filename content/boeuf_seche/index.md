@@ -1,5 +1,5 @@
 ---
-title: "boeuf seche"
+title: "Boeuf séché"
 cover: "/boeuf_seche/cover.jpg"
 categories:
 - accompagnement
