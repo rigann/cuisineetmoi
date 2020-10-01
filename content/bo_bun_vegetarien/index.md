@@ -14,11 +14,12 @@ portion: 4 personnes
 ---
 
 Le bo bun est un délicieuse salade vietnamienne traditionnellement fait à base de vermicelles de riz, boeuf grillé, crudité et sauce nuoc mam. 
+
 Aujourd'hui , j'adapte cette plat en version 100 % végétarien. le tofu frit remplace le viande de boeuf. Ma sauce est preparer à bas de sel, sucre cassonade et vinaigre de pomme.
 
 <!--more--> 
 c'est un plat simple, facile et rapide surtout il est fraîchement délicieuses pour la journée en soleil.
-Voici les ingrédients et les méthodes qui vous permettent de grater votre entourage :)
+Voici les ingrédients et les méthodes qui vous permettent de gâter votre entourage :)
 
 ## Ingrédients pour 4 personnes
 

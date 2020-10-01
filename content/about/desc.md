@@ -2,8 +2,7 @@
 title: About Me
 date: 2020-04-14
 ---
-Hello, my name is Mathorea.
-
+Salut à tous et bienvenue dans ma cuisine de tout les jours.
 <!--more-->
 
 Je m'appelle Mathorea, je suis d’origine Cambodgienne de la province de Battambang, je vivais en région Parisienne à l'âge de 20 ans et maintenant installée depuis un an au canada dans la ville de Montréal.
