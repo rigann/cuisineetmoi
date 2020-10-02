@@ -1,37 +1,71 @@
 ---
-title: "Cuisson du quinoa"
-cover: "/recette/cover.jpg"
+title: "Salade de chou et vermicelle transparent"
+cover: "/salade_de_chou_et_vermicelle_transparent/cover.jpg"
 categories:
+- entrée
 tags:
-- Riz
-date: 2020-06-05
-preparationTime: 5 mins
-cookingTime: 20 mins
-draft: true
+- salade
+- chou
+- vermicelle transparent
+
+date: 2020-07-11
+preparationTime: 30 mins
+cookingTime: 30 mins
+draft: false
+portion: 4 personnes
+
 ---
-La cuission de quinoa est très simple à réaliser. la préparation est très similaire à la cuission du riz
-Le quinoa accompagne très bien avec sauce tomate, roti de viande ou bien de poission à la crème, c'est un vrai régal pour tout la famille.
-J'ai servi dans la boite a lunch, mes enfants adorent sa texture et son goût comme les graines de maÏ.
- 
+
+La salade de chou est simplement délicieuse et facile à réaliser. 
+Elle accompagne parfaitement la viande de barbecue et on peut aussi la servir en tant qu'amuse-bouche ou en entrée. 
 <!--more--> 
+La préparation peut se faire la veille, on mélangera avec la sauce au moment de servir. Si vous avez des enfants de jeune âge, je vous conseille de ne pas mettre de piment dans la sauce vinaigrette mais de l'ajouter directement au moment de servir à sa propre convenance. Bonne réalisation :)
 
 ## Ingrédients pour 4 personnes
 
-- 250 g de quinoa 
-- 500 ml de'eau ou bouillon poulet ou légumes
-- 5 c à s d'huile d'olive
-- 1 grosse d'oignon
-- 1 gousse d'ail
-- 1 c à c de sel (quand la cuission fait avec d'eau) 
 
- 
-## Cuisson ##
+![ingredient](01.jpg)
 
-1. Faites chauffer 5 c à s d'huile d'olive dans une casserole à feux vif
-2. Ajoutez l'oignon et l'ail, faites les cuire pendant 3 à 5 minutes jusqu'à ce qu'ils soient fondus.
-3. Versez le quinoa et l'eau (ou le bouillon).
-4. Portez à ébullition, puis mettez à feu doux et laissez mijoter environ 20 minutes ou jusqu’à ce que l’eau se soit évaporée et que le quinoa soit tendre.
+- 200 g de chou blanc
+- 200 g de chou rouge
+- 100 g de vermicelle transparent
+- 150 g de menthe
+- 150 g de coriandre
+- 50g de ciboulette 
+- 60 g cacahuète cuite
 
+### Sauce vinaigrette
+
+- 3 c à s sauce de poisson
+- 6 c à s sucre de cassonade
+- 4.5 c à s vinaigre
+- 1.5 c à c de sel
+- 13 cl d'eau tiède
+- 2 piment rouge
+- 3 gousses d'ail
+
+
+## Préparation ##
+
+1. Lavez et râpez les choux blanc et rouge, puis réservez-les dans un saladier.
+![decoupe](02.jpg)
+
+2. Lavez et ciselez grossièrement les feuilles de menthes et la coriandre, puis réservez-les dans le saladier de chou, ensuite placez-le dans le frigidaire.
+
+3. faites bouillir d'eau dans un casserole, puis rajoutez les vermicelles, laissez les cuire 4 minutes, puis égouttez et rincez les au eau froide.   
+![decoupe](03.jpg)
+4. Écrasez les cacahuètes à l'aide d'un grand couteau ou d'un mortier, puis réservez-les dans un bol.
+
+5. Sauce vinaigrette 
+- Hachez l'ail et le piment, puis réservez-les dans un bol. 
+- Versez la sauce de poisson, le sucre, le vinaigre et l'eau, mélangez-les jusqu'à dissolution du sucre. 
+- La sauce est prête à être servie.
+
+6. Au moment de servir, sortez le saladier de chou du frigidaire, versez la sauce vinaigrette et la moitié de cacahuète dans le saladier, puis mélangez-les à l'aide de deux spatules.
+
+![resultat](04.jpg)
+
+## Dressage ##
+
+Servez la salade dans une assiette puis saupoudrez de cacahuète écrasé.
 Bonne dégustation :)
-
-![resultat](cover.jpg)
