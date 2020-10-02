@@ -14,13 +14,15 @@ tags:
 date: 2020-09-08
 preparationTime: 20 mins
 cookingTime: 60 mins
-draft: true
+draft: false
 portion: 8 personnes
 
 ---
-Les bouchées au crabe "Hoi Jo" sont un plat à déguster lors des fêtes du nouvel an chinois. Grâce aux feuilles de tofu apportent ces bouchées croustillant. 
+Les bouchées au crabe enveloppés aux feuilles de Tofu un plat à déguster lors des fêtes du nouvel an chinois.
 
 <!--more--> 
+Elles sont parfumées grâce à l'huile de sésame, au poivre de Sichuan et à la chair de crabe. Les châtaignes d'eau ajoutent du croquant à la chair et la rendent moins compacte. Un ingrédient que vous pouvez éventuellement ajouter au mélange de la farce est l'alcool de riz.Grâce aux feuilles de tofu apportent ces bouchées croustillant. elles s'accompagnent très bien avec une sauce aigre-douce ou Shiracha.
+Bonne réalisation.
 
 ## Ingrédients pour 8 personnes
 

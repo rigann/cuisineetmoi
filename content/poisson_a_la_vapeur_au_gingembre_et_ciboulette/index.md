@@ -15,7 +15,7 @@ draft: false
 portion: 4 personnes
 
 ---
-Aujourd'hui je vous présent ma recette préférée, c'est un plat à bas de poisson cuire à la vapeur de la cuisine cantonaise qui est particulièrement appréciée par tout le sud-est asiatique  .
+Aujourd'hui je vous présent ma recette préférée, c'est un plat à base de poisson cuire à la vapeur de la cuisine cantonaise qui est particulièrement appréciée par tout le sud-est asiatique  .
 J'ai choisi le Bar pour cette recette par sa chair fin et ferme, odorat peu prononcé, peu d'arêtes qui convient parfaitement aux enfants. 
 <!--more--> 
 Durant la cuisson la peau et la chaire de Bar assaisonnent légèrement à la sauce de soja et parfument délicieusement au gingembre , 

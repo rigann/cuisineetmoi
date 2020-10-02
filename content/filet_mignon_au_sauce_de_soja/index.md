@@ -7,7 +7,7 @@ tags:
 date: 2020-09-28
 preparationTime: 15 mins
 cookingTime: 60 mins
-draft: true
+draft: false
 ---
 Le filet mignon de porc, également appelé filet de porc, c'est une viande très tendre et savoureuse.on peut le cuisinée avec différents façons: mariné cuire au BBQ, poêlé rapidement avec une noisette de beurre, cuisiné avec tout type de sauce. Le résultat est toujours au rendez-vous.
  

@@ -11,7 +11,7 @@ Je suis maman de deux enfants qui aime faire déguster ses plats du pays  et ses
 
 Depuis tout petite j'aime picorer et déguster différents mets et je m’amuse à les reproduire à la maison. 
 
-Mon blogue est né en 2020 pendant la période de confinement la Covid-19 dans l'objectif de collecter mes recettes préférées, en vue de garder pour mes enfants et partager avec ma famille et mes amis.
+Mon blog est né en 2020 pendant la période de confinement la Covid-19 dans l'objectif de collecter mes recettes préférées, en vue de garder pour mes enfants et partager avec ma famille et mes amis.
 
 Tout les recettes dans mon blog sont réaliser dans ma cuisine et photographier par moi même.
 
