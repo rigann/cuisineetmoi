@@ -8,7 +8,7 @@ tags:
 - gingembre
 - ciboulette
 
-date: 2020-07-11
+date: 2020-10-01
 preparationTime: 15 mins
 cookingTime: 30 mins
 draft: false
@@ -22,7 +22,7 @@ Durant la cuisson la peau et la chaire de Bar assaisonnent légèrement à la sa
 Ce plat s'accompagne très bien avec le riz blanc et également la pomme de terre à la vapeur. 
 
 La préparation et la cuisson rapide pour ce délicieux plat familiale. 
-Si vous avez envie tester, voici la recette... 
+Si vous avez envie de tester, voici la recette... 
 
 ## Ingrédients pour 4 personnes
 
