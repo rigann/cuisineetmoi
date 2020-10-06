@@ -32,6 +32,8 @@ La préparation du curry est long et laborieux, il est généralement suit pour 
 - 6 c à s de la sauce poisson
 - 2 c à s de cassonade
 - 1 c à c de sel
+
+![01](cover.jpg)
  
 ## preparation ##
 
@@ -44,13 +46,34 @@ La préparation du curry est long et laborieux, il est généralement suit pour 
    une c à s de cassonade
    puis mélangez et laissez les mariné une nuit.
 
+![02](cover.jpg)   
+
 ## cuisson ##
 
 1. Faites chauffer 4 c à s d'huile dans un grand casserole à feu vif, puis rajoutez des graines de curry, faites revenir rapidement (20 seconde) puis retirez la casserole hors du feu, à l'aide d'une cuillère enlever les grains de curry,
+
+![03](cover.jpg)
+
+![04](cover.jpg)
+
+
 2. Remettez la casserole sur le feu puis versez 200 g de lait de coco en guise de matière grasse, 
+
+![05](cover.jpg)
+
+![06](cover.jpg)
+
 3. Incorporez la marinade, 2 tiges de citronnelle, 4 feuilles de kaffir, 2 c à s de poisson, 1 c à s cassonade,
+
+![07](cover.jpg)
+
 4. faites les revenir 15 minutes à feu moyen
-5. Rajoutez les restes du lait coco, laissez cuire 15 minutes à feux doux. c'est pour déguster :)
+
+![08](cover.jpg)
+
+5. Rajoutez les restes du lait coco, laissez cuire 15 minutes à feux doux. 
+
+![09](cover.jpg)
 
 Bonne dégustation :)
 
