@@ -29,6 +29,7 @@ La préparation du curry est long et laborieux, il est généralement suit pour 
 - 2 tiges de citronnelle (écrasé les)
 - 4 feuilles de kaffir
 - 800g de lait de coco 
+- 800g d'eau
 - 6 c à s de la sauce poisson
 - 2 c à s de cassonade
 - 1 c à c de sel

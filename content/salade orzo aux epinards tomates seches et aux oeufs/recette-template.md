@@ -2,10 +2,14 @@
 title: "salade d'orzo aux épinards tomates séchées et aux oeufs"
 cover: "/salade_orzo_aux_epinards_tomates_sechees_et_aux_oeufs/cover.jpg"
 categories:
+
 - entrée
 - plat
+
 tags:
-- Riz
+
+- ORZO
+
 date: 2020-06-05
 preparationTime: 15 mins
 cookingTime: 30 mins
@@ -17,12 +21,12 @@ C'est un plat simple à cuisiner. le goûte approche au plat méditerrané. les 
 
 ## Ingrédients pour 4 personnes
 
-- 250 g de quinoa 
-- 500 ml de'eau ou bouillon poulet ou légumes
-- 5 c à s d'huile d'olive
-- 1 grosse d'oignon
-- 1 gousse d'ail
-- 1 c à c de sel (quand la cuission fait avec d'eau) 
+- 300g d'orzo
+- 6 d'oeufs 
+- 1 botte d'épinard
+- 50g de tomate séché
+-
+ 
 
  
 ## Cuisson ##
