@@ -1,13 +1,17 @@
 ---
 title: "Chou vert au jus de citron accompagné de saucisses"
 cover: "/chou_vert_au_jus_de_citron_accompagne_de_saucisses/cover.jpg"
+
 categories:
+
+- plat
+
 tags:
 
 - chou vert
 - saucisses
 
-date: 2020-09-17
+date: 2020-10-06
 preparationTime: 20 mins
 cookingTime: 50 mins
 draft: true
