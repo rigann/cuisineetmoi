@@ -51,4 +51,4 @@ Servez le chou et les saucisses avec de la moutarde à l'ancienne et des pommes 
 
 Bonne dégustation :)
 
-![resultat](cover.jpg)
+![resultat](01.jpg)
