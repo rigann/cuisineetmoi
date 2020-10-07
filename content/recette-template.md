@@ -1,13 +1,10 @@
 ---
-title: "Salade de chou et vermicelle transparent"
-cover: "/salade_de_chou_et_vermicelle_transparent/cover.jpg"
+title: "Template"
+cover: "/template/cover.jpg"
 categories:
 - entrée
 tags:
 - salade
-- chou
-- vermicelle transparent
-
 date: 2020-07-11
 preparationTime: 30 mins
 cookingTime: 30 mins
@@ -16,10 +13,9 @@ portion: 4 personnes
 
 ---
 
-La salade de chou est simplement délicieuse et facile à réaliser. 
-Elle accompagne parfaitement la viande de barbecue et on peut aussi la servir en tant qu'amuse-bouche ou en entrée. 
+Message présentation page de garde. 
 <!--more--> 
-La préparation peut se faire la veille, on mélangera avec la sauce au moment de servir. Si vous avez des enfants de jeune âge, je vous conseille de ne pas mettre de piment dans la sauce vinaigrette mais de l'ajouter directement au moment de servir à sa propre convenance. Bonne réalisation :)
+Suite du message
 
 ## Ingrédients pour 4 personnes
 
