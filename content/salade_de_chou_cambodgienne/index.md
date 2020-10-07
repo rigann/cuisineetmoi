@@ -21,7 +21,6 @@ La préparation peut se faire la veille, on mélangera avec la sauce au moment d
 
 ## Ingrédients pour 4 personnes
 
-
 ![ingredient](01.jpg)
 
 - 300 g de chou blanc

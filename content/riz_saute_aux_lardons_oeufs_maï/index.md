@@ -1,26 +1,24 @@
 ---
-title: "Riz sauté aux lardons oeufs maï"
+title: "Riz sauté aux lardons oeufs maïs"
 cover: "/riz_saute_aux_lardons_oeufs_maï/cover.jpg"
 categories:
 - plat
 tags:
 - riz
-- maï
+- maïs
 - oeufs
 
 date: 2020-10-06
 preparationTime: 10 mins
 cookingTime: 15 mins
-draft: false
+draft: true
 portion: 4 personnes
 
 ---
-. 
-<!--more--> 
-. 
-
 La préparation et la cuisson rapide pour ce délicieux plat familiale. 
+<!--more--> 
 Si vous avez envie de tester, voici la recette... 
+ 
 
 ## Ingrédients pour 4 personnes
 
