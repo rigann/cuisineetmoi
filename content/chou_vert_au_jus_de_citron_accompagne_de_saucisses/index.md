@@ -10,7 +10,7 @@ tags:
 date: 2020-10-06
 preparationTime: 15 mins
 cookingTime: 50 mins
-draft: true
+draft: false
 
 ---
 Choucroute mon plat préféré d'automne et d'hiver s'accompagne avec un verre de vin blanc alsacien le Riesling c'est une accorde parfait pour ma part.
