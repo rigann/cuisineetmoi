@@ -2,6 +2,7 @@
 title: "Nom krok"
 cover: "/nom_krok/cover.jpg"
 categories:
+- plat
 tags:
 - Riz
 - Lait de coco
@@ -38,6 +39,8 @@ La recette présenté ci-dessous est l'original Nom Krok Khmer mais vous pouvez 
 - 1 c à s de sucre
 - 1 c à c de sel
 
+![ingredients](01.jpg)
+
 ### Sauce vinaigrette
 
 - sauce de poisson
@@ -47,19 +50,33 @@ La recette présenté ci-dessous est l'original Nom Krok Khmer mais vous pouvez 
 - 1 piment rouge
 - 1 gousse d'ail
 
-
 ## Préparation ##
 
 1. Lavez et ciselez les ciboulettes, réservez les dans un bol.
 
+![](02.jpg)
+
 2. Dans le blender, mixez le riz cuit avec l'eau pendant 2 minutes, puis réservez la préparation dans un grand recipient.
+
+![](03.jpg)
+
+![](04.jpg)
+
+![](05.jpg)
 
 3. Versez la farine de riz, le lait de coco, le sel et le sucre, puis mélangez les bien, rajoutez les ciboulettes ciselées. La pâte est prête à cuire.
 
+![](06.jpg)
+
+![](07.jpg)
+
 4. Sauce vinaigrette: 
 - Ciselez l'ail et le piment, puis réservez dans un bol. 
-- Versez la sauce de poisson, le sucre, le vinaigre et l'eau et mélangez les jusqu'à dissolution du sucre. 
+- Versez la sauce de poisson, le sucre, le vinaigre et l'eau et mélangez les jusqu'à dissolution du sucre.
+- faites chauffer le lait de coco, puis versez dans le mélange de sauce de poisson.
 - La sauce est prête à être servis.
+
+![](08.jpg)
 
 ## Cuisson ##
 
@@ -70,7 +87,13 @@ La recette présenté ci-dessous est l'original Nom Krok Khmer mais vous pouvez 
     - mélangez bien la pâte à avant chaque remplissage, 
     - laissez cuire pendant 5 minutes avec le couvercle
 
+![](09.jpg)    
+
 3. Démoulez la boule de nom krok à l'aide deux cuillères à soupe, puis rassemblez les demi spheres ensemble, déposez les sur une grande assiette de service.
+
+![](10.jpg)
+
+![](11.jpg)
 
 4. Continuez à cuire les nom krok jusqu'à épuisement de la pâte.
 
