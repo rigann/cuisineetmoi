@@ -9,7 +9,7 @@ tags:
 date: 2020-09-25
 preparationTime: 20 mins
 cookingTime: 15 mins
-draft: true
+draft: false
 ---
 Somlor kor ko est un plat Khmer très populaire au Cambodge. On peut cuisiner ce plat avec différents de viande poulet, porc, poisson et des variétés de légumes, c'est un plat cuit à petit feu avec une touche de différents aromates.
 <!--more--> 
