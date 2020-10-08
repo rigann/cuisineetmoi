@@ -14,7 +14,9 @@ portion: 6 personnes
 
 ---
 Bobor est une soupe salée à base de riz et de viande, cuit dans un bouillon de poulet ou porc selon sa préférence.
+
 <!--more--> 
+
 En Asie, cette soupe est servie au petite déjeuner dès que le soleil se lève, et se termine vers 9h du matin. On la trouve en vente au bord de route, dans le marché ou dans un restaurant de ville.
 
 C’est un plat à découvrir si vous allez au Cambodge en Thailand ou au Laos. C’est le genre de plat qui a tout pour plaire: délicieux, nourrissant tout en restant léger et qui a tout ce qu’il faut pour vous donner assez d’énergie pour la matinée. 
