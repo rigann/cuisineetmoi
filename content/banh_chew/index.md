@@ -18,9 +18,12 @@ draft: true
 portion: 8 crêpes
 
 ---
-Banh chew est une crêpe de couleur jaune du curcuma, d'originaire du viêtnam connue sous le nom Banh-Xéo. On les trouve à vendre dans les marchés d'asie sud-est comme le Cambodge, le Lao, le Thaïlande. Chaque pays a su adapté la pâte à crêpe à leurs goûtes.
-
+Banh-chew est une crêpe salé de couleur jaune du curcuma, d'originaire du viêtnam connue sous le nom Banh-Xéo. On les trouve à vendre dans les marchés d'asie sud-est comme le Cambodge, le Lao, le Thaïlande. Chaque pays a su adapté la pâte à crêpe à leurs goûtes.
 <!--more--> 
+cette crêpe est croustillante, parfumée au lait de coco, composée d'épices, d'herbes aromatiques et de viande qui ne pourra que vous plaire.
+Pour préparé ma pâte Banh-chew, j'ai choisir d'incorporer de noix de coco rapé, afin de rentre la crêpe encore plus croustillante.
+Ma farce se compose d'ingredient classique comme la viande porc haché et les graines de soja jaune. Si vous souhaitez la rente encore plus gourmande, rajoutez les fruits de mer ( crevette et calamar) dans la farce.     
+Je vous laisse découvrir ma recette, n'hésitez pas de créer votre crêpe préféré :)
 
 ## Ingrédients pour 4 personnes
 
@@ -34,7 +37,7 @@ Banh chew est une crêpe de couleur jaune du curcuma, d'originaire du viêtnam c
 - 40 cl d'eau
 - 1/2 c à c de sel
 - 1 c à s de sucre
-- 50 g de noix de coco déshydraté 
+- 50 g de noix de coco rapé déshydraté 
 
  ### Pour la farce
 
@@ -56,7 +59,7 @@ Banh chew est une crêpe de couleur jaune du curcuma, d'originaire du viêtnam c
 - 10 branches de menthe
 - 10 branches de coriandre
 - de la sauce pour nem et Ba-Boun
-
+- 1 poignée de cacahuètes pilées
 
 ## Préparation ##
 
