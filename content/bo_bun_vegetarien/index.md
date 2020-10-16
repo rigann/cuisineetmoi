@@ -13,25 +13,28 @@ draft: false
 portion: 4 personnes
 ---
 
-Le bo bun est un délicieuse salade vietnamienne traditionnellement fait à base de vermicelles de riz, boeuf grillé, crudité et sauce nuoc mam. 
+Le bo bun est une délicieuse salade vietnamienne traditionnellement fait à base de vermicelles de riz, boeuf grillé, crudité et sauce nuoc mam. 
 
-Aujourd'hui , j'adapte cette plat en version 100 % végétarien. le tofu frit remplace le viande de boeuf. Ma sauce est preparer à bas de sel, sucre cassonade et vinaigre de pomme.
+Aujourd'hui, j'adapte cette plat en version 100 % végétarien. Le tofu frit remplace la viande de boeuf. Ma sauce est preparer à base de sel, sucre cassonade et vinaigre de pomme.
 
 <!--more--> 
-c'est un plat simple, facile et rapide surtout il est fraîchement délicieuses pour la journée en soleil.
-Voici les ingrédients et les méthodes qui vous permettent de gâter votre entourage :)
+C'est un plat simple, facile et rapide surtout il est fraîchement délicieuses pour la journée en soleil.
+Voici les ingrédients et les méthodes qui vous permet de gâter votre entourage :)
 
 ## Ingrédients pour 4 personnes
 
 ![ingredient](01.jpg)
 
-- 450g de vermicelle de riz
-- 4 blocs de tofu ferme de 400 g
-- 2 grosse d'oignon (tranchées)
-- 1 gousse d'ail (haché)
-- 50g de cacahuète haché
+### Base
 
-les légumes
+- 450 g de vermicelle de riz
+- 4 blocs de tofu ferme de 400 g
+- 2 oignons (tranchés)
+- 1 gousse d'ail (haché)
+- 50 g de cacahuète (haché)
+
+
+### Légumes
 - 2 carottes (épluché et rapé)
 - 1/2 de concombre (lavé et rapé grossièrement)
 - quelque feuilles de salade (lavé et coupé grossièrement)
@@ -39,34 +42,36 @@ les légumes
 - 1/2 botte de ciboulette (lavé et ciselé) 
 - 1/2 botte de coriandre (lavé et ciselé)
 
-la sauce nem sans nuoc mam
+
+### Sauce nem sans nuoc mam
 - 13 cl d’eau chaude
 - 4 c à s de sucre cassonade
 - 3 c à s de vinaigres de pomme
 - 2,5 c à c de sel
-- 2 de gousse d’ail
-- 1 de piment rouge
-
-## cuisson ##
-
-1. Dans un grand casserole faites bouillir d'eau, puis rajoutez les vermicelles de riz, laissez les cuire jusqu'à ce qu'il devienne translucide, la cuisson dure 3 à 8 minutes selon d'épaisseur de vermicelle, 
+- 2 gousses d’ail
+- 1 piment rouge
 
 
-2. Egouttez et rincez les à d'eau froid, puis confectionnez les en boules et réservez les,
+## Cuisson
 
+1. Dans une grande casserole faites bouillir l'eau, puis rajoutez les vermicelles de riz et laissez les cuire jusqu'à ce qu'ils deviennent translucides, la cuisson dure 3 à 8 minutes selon l'épaisseur des vermicelles.
 
-3. Dans un grand assiette semi-creux mélangé les légumes puis réservez les au frigidaire,
+2. Egouttez et rincez les à l'eau froid, puis confectionnez les en boules et réservez les.
 
-4. Coupez le tofu en tranche ou en cubes, Dans une friteuse faites dorer les tofu à feux moyen, puis laissez les égoutter d'huile sur une grille,
+3. Dans une grande assiette semi-creuse mélangez les légumes puis réservez les au frigidaire.
+
+4. Coupez le tofu en tranche ou en cubes.
 
 ![decoupe](04.jpg)
 
+5. Dans une friteuse faites dorer les tofu à feux moyen, puis laissez les égoutter l'huile sur une grille.
+
 ![decoupe](05.jpg)
 
-5. Chauffez dans un poêle une c à s de l'huile à feux vifs puis rajoutez et faites revenir de l'oignon quelque minutes, 
+5. Chauffez dans une poêle mettre une c à s d'huile à feu vif faites faner les tranches d'oignons, reservez. 
 
-## dressage ##
+## Dressage
 
-Disposez des légumes au fond d'un grand bol, deux boules de vermicelle, des tofu frit,et arrosez deux louche de la sauce de nêm, puis saupoudrez des cacahuètes. c'est prêt pour déguster:)  
+Disposez des légumes au fond d'un grand bol, deux boules de vermicelle, des tofu frit,et arrosez deux louche de la sauce de nêm, puis saupoudrez des cacahuètes. C'est prêt pour déguster :)  
 
-![decoupe](06.jpg)
+![dressage](06.jpg)
