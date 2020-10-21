@@ -5,57 +5,54 @@ categories:
 - accompagnement
 - entrée
 tags:
-
 - boeuf
-
 date: 2020-09-10
-
-lastmod: 2020-04-29
+lastmod: 2020-10-16
+draft: false
 
 ---
-Le boeuf séché est un food street. On les trouve presque partout dans la rue Entre 15h à 19h dans un chariot, le vendeur les cuit au feu de charbon. On les déguste avec un mélange de légumes variés marinés avec un pointe d'aciduté.
+Le boeuf séché est un food street. On les trouve presque partout dans la rue des grandes villes du Cambodge. Entre 15h à 19h dans un chariot, le vendeur les cuit au feu de charbon. On les déguste avec un mélange de légumes variés marinés avec un pointe d'aciduté.
 <!--more-->
+C'est une vrai challenge pour moi de réaliser cette recette car dans mon pays, on les fait séché en plein soleil à 40°C. 
 
-C'est une vrai challenge pour moi de réaliser cette recette car dans mon pays, on les fait séché en pleine soleil à 40°C. 
-
-## Ingrédients ##
+## Ingrédients
 
 - 1,2 kg de boeuf
 
-### Assaisonnements & condiments 
+### Assaisonnements & Condiments 
 
-- 35g de sel
-- 50g de sucre de cassonade
-- 20g d'ail
-- 40g de galanga
+- 35 g de sel
+- 50 g de sucre de cassonade
+- 20 g d'ail
+- 40 g de galanga
 - 3 piments
 
-## Préparation ##
+## Préparation
 
-1. Coupez le bœuf en tranche fine, réserver dans une saladier
-2. Dans un mortier ou blender met le galanga, l’ail,  les piments, puis les mixer, jus qu’obtenu une pâte semi-lisse
-3. Ajoutez assaisonnement & condiment dans la saladier du boeuf, mélange les bien à l'aide de deux spatules.
-4. Laissez les marinés environ 5H. 
-5. Mettez les tranches de bœuf sur une grille, puis la placé à mi-hauteur dans le four, et laissé séché pendant 4 heures à 90°C ou 195 °F. Pendant le temps de séchage laisser la porte du four entre ouverte.
+1. Coupez le bœuf en tranche fine, réservez dans une saladier.
+2. Dans un mortier ou blender mettez le galanga, l’ail,  les piments, puis mixez-les, jusqu’à obtention d'une pâte semi-lisse.
+3. Ajoutez l'assaisonnement et les condiments dans la saladier avec le bœuf, mélangez les bien à l'aide de deux spatules.
+4. Laissez les marinés environ 5 heures. 
+5. Mettez les tranches de bœuf sur une grille, placez à mi-hauteur dans le four, et laissez séché pendant 4 heures à 90°C ou 195°F. Pendant ce temps de séchage laissez la porte du four entreouverte.
 
 ![decoupe](04.jpg)
 
 ![decoupe](05.jpg)
 
-## Conservation ##
+## Conservation
 
 ![resultat](cover.jpg)
 
 Placez le boeuf séché dans une boite hermétique. La viande peut se conserver dans le frigidaire plusieurs mois.
 
-## Cuisson ##
+## Cuisson
 
-Dans un poêle les faire revenir avec un peu d'huile au feux vif 30 seconde de chaque côté.
+Dans un poêle les faire revenir avec un peu d'huile à feu vif 30 secondes de chaque côté.
 
-## Dégustation ##
+## Dégustation
 
 - Riz gluant
-- Riz Jasmin parfumé
-- Apéritif avec carotte mariné aux vinaigres
+- Riz jasmin parfumé
+- Apéritif avec carotte mariné aux vinaigre
 
 Bon appétit ! :)
