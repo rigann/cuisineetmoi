@@ -32,18 +32,18 @@ Un disque de pâte feuilletée, quelques pommes, du beurre salé et de la casson
 
 ![decoupe](01.jpg)
 
-3. Étalez les compotes de pommes sur la pâte feuilletée. 
+3. Étalez la compote de pommes sur la pâte feuilletée. 
 
 ![decoupe](02.jpg)
 
 4. Épluchez les pommes, tranchez-les finement (2 ou 3 min d'épaisseur) puis disposez-les en rosace sur la pâte feuilletée en laissant 1 cm de bord.
 
-5. Coupez du beurre en petite morceau et disposez sur les pommes, puis saupoudrez de cassonade.
+5. Coupez du beurre en petits morceaux et disposez sur les pommes, puis saupoudrez de cassonade.
 
 ![decoupe](03.jpg)
 
-6. Faites cuire 30 minutes dans un four à chaleur tournante sur la grille du bas ou bien 50 minutes pour un four classique et si elle n'est pas assez dorée, passez la 4 minutes en surveillant sous le grill au thermostat basse température en laissant le four entre-ouvert.
+6. Faites cuire 30 minutes dans un four à chaleur tournante sur la grille du bas ou bien 50 minutes pour un four classique et si elle n'est pas assez dorée, passez la 4 minutes sous le grill au thermostat basse température en laissant le four entre-ouvert tout en surveillant.
  
-Dégustez tiède seul ou avec une boule de crème glace. Bonne dégustation :)
+Dégustez tiède seule ou avec une boule de crème glacée. Bonne dégustation :)
 
 ![resultat](cover.jpg) 
