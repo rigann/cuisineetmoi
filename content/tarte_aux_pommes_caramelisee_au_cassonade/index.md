@@ -9,7 +9,7 @@ tags:
 date: 2020-09-24
 preparationTime: 15 mins
 cookingTime: 45 mins
-draft: true
+draft: fals
 ---
 
 La tarte aux pommes est un type de bouchée sucré qui m'a toujours plu par sa sobriété et son élégance. Elle est confectionnée avec des ingrédients simples à porter de main.  
