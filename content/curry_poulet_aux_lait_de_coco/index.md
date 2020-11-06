@@ -9,30 +9,30 @@ tags:
 date: 2020-09-25
 preparationTime: 15 mins
 cookingTime: 60 mins
-draft: true
+draft: false
 portion: 6 personnes
 ---
 
 Le curry est d'origine indienne, mais s'est propagé à de nombreux autres pays où il s'est adapté à la cuisine locale.
-Au cambodge le curry est un plat aujourd'hui traditionnellement associé à des occasions importantes comme le nouvel an Khmer ou la fête de [Pchum Ben](https://fr.wikipedia.org/wiki/Pchum_ben).  
+Au cambodge le curry est un plat traditionnellement associé à des occasions importantes comme le nouvel an Khmer ou la fête de [Pchum Ben](https://fr.wikipedia.org/wiki/Pchum_ben).
 <!--more--> 
-La préparation du curry est longue et laborieuse aussi il est généralement cuit pour un grand nombre de personnes.
+La préparation du curry est longue, aussi il est généralement servie pour un grand nombre de personnes.
 
-Dans cette recette j'ai choisie un poulet entier type fermier pour sa chaire ferme, si vous n'êtes pas très confortable pour découper le poulet entier, je vous conseille de prendre les cuisses ou les pilons.
+Dans cette recette j'ai choisie un poulet entier fermier pour sa chaire ferme. sSi vous n'êtes pas confortable pour découper le poulet entier, je vous conseille de prendre des cuisses ou des pilons.
 
 
 ## Ingrédients pour 6 personnes
 
 - 1,5 kg de poulet entier
 - 2 c à c de grain de curry
-- 2 mini baton de cannelle
+- 2 batons de cannelle
 - 3 étoiles badiane
 - 1 c à c curcuma en poudre
 - 1 c à c paprika doux
 - 1 c à c coriandre entier
 - 3 tiges de citronnelle 
 - 4 feuilles de kaffir
-- 800 g de lait de coco 
+- 800 g de lait de coco
 - 800 g d'eau
 - 6 c à s de sauce poisson
 - 2 c à c pâte de crevette fermentée 
@@ -70,7 +70,7 @@ Dans cette recette j'ai choisie un poulet entier type fermier pour sa chaire fer
 ![](04.jpg)
 
 2. Remettez la casserole sur le feu puis versez 200 g de lait de coco en guise de matière grasse.
-
+##
 ![](05.jpg)
 
 ![](06.jpg)
@@ -86,6 +86,10 @@ Dans cette recette j'ai choisie un poulet entier type fermier pour sa chaire fer
 5. Rajoutez les restes du lait coco, laissez cuire 15 minutes à feu doux. 
 
 ![](09.jpg)
+
+## Accompagnement
+
+Servez avec des vermicelles de riz ou du riz parfumé. Pimentez à votre goût en découpant quelques morceaux de piment.
 
 Bonne dégustation :)
 
