@@ -17,8 +17,6 @@ Toutes les étapes sont importantes, ce plat est réussi quand la chair est jute
 
 ## Ingrédients pour 6 personnes
 
-![ingredient](01.jpg)
-
 - 1 kg de poitrine de porc 
 
 ### La marinade de viande
@@ -29,11 +27,14 @@ Toutes les étapes sont importantes, ce plat est réussi quand la chair est jute
 - 2 c à c de sel
 - 1 c à c de sucre
 
+![ingredient](01.jpg)
+
 ###  La marinade pour les couennes de porc
 
-![ingredient](02.jpg)
 - 1 c à s de vinaigre de riz blanc
 - 1 c à c de sel
+
+![ingredient](02.jpg)
 
 ## Préparation ##
 
