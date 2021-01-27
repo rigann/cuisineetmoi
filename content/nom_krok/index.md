@@ -20,10 +20,10 @@ On les prépare à partir de la farine de riz et de lait de coco, cuite dans une
 On les déguste chaud avec de la sauce vinaigrette sucrée et salée parfumée au lait de coco.
 Habituellement en vente sur un chariot ambulant en fin d'après midi, à côté d'établissements scolaire, du marché ou devant les habitations.
 
-La recette présenté ci-dessous est l'original Nom Krok Khmer mais vous pouvez le transformer en plat complet en les garnissant de viande hachée, de fruits de mer, de germes de soja ou bambou. Je l'ai testé pour vous et c'est vraiment délicieux... à vos envies.
+La recette présentée ci-dessous est l'original Nom Krok Khmer mais vous pouvez le transformer en plat complet en les garnissant de viande hachée, de fruits de mer, de germes de soja ou bambou. Je l'ai testé pour vous et c'est vraiment délicieux... à vos envies.
 
 
-## Ustensile
+## Ustensiles
 
 - Plaque chauffante Nom Krok
 ![plaque chauffante Nom Krok](plaque.jpg) 
@@ -74,11 +74,11 @@ La recette présenté ci-dessous est l'original Nom Krok Khmer mais vous pouvez 
 - Ciselez l'ail et le piment, puis réservez dans un bol. 
 - Versez la sauce de poisson, le sucre, le vinaigre et l'eau et mélangez les jusqu'à dissolution du sucre.
 - faites chauffer le lait de coco, puis versez dans le mélange de sauce de poisson.
-- La sauce est prête à être servis.
+- La sauce est prête à être servie.
 
 ![](08.jpg)
 
-## Cuisson ##
+## Cuisson
 
 1. Faites chauffer le poêle de Takoyaki à feu moyen, huilez, laissez bien préchauffer pour avoir une température homogène.
 
@@ -99,7 +99,9 @@ La recette présenté ci-dessous est l'original Nom Krok Khmer mais vous pouvez 
 
 ## Dressage
 
-Placez 6 boules par personne dans une assiette creuse, puis arrosez deux cuillères à soupe de sauce vinaigrette, c'est prêt à être déguster.
+Placez 6 boules par personne dans une assiette creuse, puis arrosez deux cuillères à soupe de sauce vinaigrette.
+
+C'est prêt à être déguster.
 
 Bonne dégustation :)
 

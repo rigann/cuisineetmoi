@@ -41,7 +41,7 @@ Gateau aux pommes classique pour les gourmands que nous sommes.
 
 2. Épluchez les pommes, puis coupez les en quartiers.
 
-3. Beurrez le moule, versez le mélange, puis placez les quartiers de pommes dessus. 
+3. Beurrez le moule, versez le mélange, placez les quartiers de pommes dessus. 
 
 ![avant cuisson](02.jpg)
 
@@ -49,7 +49,7 @@ Gateau aux pommes classique pour les gourmands que nous sommes.
 
 4. Pendant ce temps préparez la crème, faite fondre le beurre.
 
-5. Dans un récipient, versez le sucre et l'oeuf et le beurre, puis mélangez à l'aide d'un fouet jusqu'à obtention d'une crème bien lisse.
+5. Dans un récipient, versez le sucre, l'oeuf et le beurre, mélangez à l'aide d'un fouet jusqu'à obtention d'une crème bien lisse.
 
 6. Versez la crème sur le gâteau et laissez terminer la cuisson pendant 15 minutes.
 

@@ -43,7 +43,7 @@ J'ai choisi d'accompagné ce plat avec le quinoa rouge et le riz blanc parfumé,
 
 ## Préparation
 
-1. Coupez le filet mignon en tranche d'environ de 8 cm, puis rajoutez 1 c à c sauce Magi, 2 c à s soja claire, 1 c à c cassonade, 1/2 c à c sel, 1/2 c à c poivre, laissez mariné 
+1. Coupez le filet mignon en tranche d'environ de 8 cm, puis rajoutez 1 c à c sauce Magi, 2 c à s soja claire, 1 c à c cassonade, 1/2 c à c sel, 1/2 c à c poivre, laissez mariné.
 
 
 ![](02.jpg)
@@ -51,16 +51,16 @@ J'ai choisi d'accompagné ce plat avec le quinoa rouge et le riz blanc parfumé,
 ![](03.jpg)
 
 
-2. Pendant ce temps, Ciselez les oignons en dés
+2. Pendant ce temps, ciselez les oignons en dés.
 
 ![](04-1.jpg)
 
 
-3. Taillez la ciboulette en rondelle
+3. Taillez la ciboulette en rondelle.
 
 ## Cuisson
 
-1. Dans un wok chauffez 2 c à s huile d'olive et 1 c à s de beurre à feu vif, faites dorer de tranche filet mignon de un minutes trente de chaque coté, puis réservez les
+1. Dans un wok chauffez 2 c à s d'huile d'olive et 1 c à s de beurre à feu vif, faites dorer les tranches de filet mignon, une minute trente de chaque coté, puis réservez les.
 
 ![](05.jpg)
 
@@ -69,7 +69,7 @@ J'ai choisi d'accompagné ce plat avec le quinoa rouge et le riz blanc parfumé,
 ![](07.jpg)
 
 
-2. Rajoutez une c à s huile d'olive dans la même wok, faites dorer les oignons pendant 8 mins, puis mettez les tranches de filet mignon 
+2. Rajoutez une c à s d'huile d'olive dans la même wok, faites dorer les oignons pendant 8 mins, puis remettez les tranches de filet mignon 
 
 
 ![](08.jpg)
@@ -77,7 +77,7 @@ J'ai choisi d'accompagné ce plat avec le quinoa rouge et le riz blanc parfumé,
 ![](09.jpg)
 
 
-3. Incorporez l'assaisonnement, couverez le wok avec le couvercle, laissez cuire pendant 60 mins à feu doux.
+3. Incorporez l'assaisonnement, couverez le wok avec un couvercle, laissez cuire pendant 60 mins à feu doux.
 
 
 ![](10.jpg)

@@ -2,14 +2,10 @@
 title: "Pâtes sautée aux boeuf hachée et ses légumes"
 cover: "/nouille_sautee_boeuf_hachee_legume/cover.jpg"
 categories:
-
 - plat
-
 tags:
-
-- Nouille
-- Boeuf
-
+- nouille
+- boeuf
 date: 2020-06-17
 preparationTime: 15 mins
 cookingTime: 30 mins
@@ -22,50 +18,52 @@ Bonne réalisation :)
 <!--more--> 
 Conseils:
 
-Il ne faut pas faire tremper les pâtes de riz trop longtemps,
-Il faut faire sauter rapidement les pâtes de rie à feu vif,
+- Il ne faut pas faire tremper les pâtes de riz trop longtemps.
+- Il faut faire sauter rapidement les pâtes de rie à feu vif.
 
 ## Ingrédients pour 4 personnes
+
 ![ingredients](1.jpg)
 
 - 454 g de nouille
 - 350 g de Spey Katna ou Gai lan
 - 400 g de boeuf haché
-- 4 gousse d'ail
+- 4 gousses d'ail
 - 7 c à s la sauce soja claire
-- 4 c à c cassonade
-- 2 c à s poisson
+- 4 c à c de cassonade
+- 2 c à s la sauce de poisson
 - 1 c à c la farine de tapioca
 - 8 c à s d'huile
 - 25 cl d'eau
 
-## Préparation ##
+## Préparation
 
-1. Laissez tremper des nouilles dans l'eau (environ 30 minutes).Quand ils deviennent blanches et souples, les retirer et les égoutter.
+1. Laissez tremper les nouilles dans l'eau (environ 30 minutes).Quand ils deviennent blanches et souples, les retirer et les égoutter.
 ![viande](2.jpg)
 
-2. Assasonnez la viande haché avec 
-   3 c à s de sauce de soja
-   1 c à c cassonarde
-   1 c à c de la farine tapioca 
+2. Assaisonnez la viande haché avec 
+   - 3 c à s de sauce de soja
+   - 1 c à c cassonarde
+   - 1 c à c de la farine tapioca 
 ![viande](3.jpg)
 
 3. Lavez et coupez légumes
 ![viande](4.jpg)
 
-4. Hachez d'ail et préparez assasionnement avec
+4. Hachez d'ail et préparez l'assaisonnement avec
    4 c à s la sauce de soja
    2 c à s la sauce de poisson
    3 c à c la cassonade
    250ml d'eau
 ![](5.jpg)
 
-## Cuisson ##
+## Cuisson
 
-1. Dans un wok chauffez 2 c à s d'huile à feu vif, rajoutez et faites dorée 1/4 d'ail hachés, puis incorporez de Spey Katna ou Gai lan et 1/4 la mélange de sauce (Préparation N°4), faites les revenir jusqu'à ce qu'ils soient tendres, soit environ 5 minutes, ensuite réservez les dans un récipient.   
+1. Dans un wok chauffez 2 c à s d'huile à feu vif, faites dorée 1/4 d'ail hachés, 
+puis incorporez de Spey Katna ou Gai lan et 1/4 de l'assaisonnement (préparation 4), faites les revenir jusqu'à ce qu'ils soient tendres, soit environ 5 minutes, ensuite réservez les dans un récipient.   
 ![](6.jpg)
 
-2. Chauffez dans un wok 2 c à s de l'huile à vif , rajoutez la viande haché (préparation N°2), puis faites les revenir jusqu'à ce qu’ils soient cuire, soit environ 3 minutes, puis versez le récipient de légume,
+2. Chauffez dans un wok 2 c à s de l'huile à vif, rajoutez la viande haché de la préparation 2, puis faites les revenir jusqu'à ce qu’ils soient cuites, soit environ 3 minutes, puis rajoutez le récipient de légumes
 ![](7.jpg)
 
 
