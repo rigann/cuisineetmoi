@@ -17,14 +17,14 @@ Le larb est une délicieuse salade asie sud-est composée de viande hachée, cit
 
 ## Ingrédients pour 6 personnes
 
-- 1 Kg de poulet ou porc haché
+- 1 kg de poulet ou porc haché
 - 5 échalotes émincées
 - 5 c à s de riz grillés
 - 1 c à s de sauce de poisson
-- 4 citrons verts
+- 4 citrons vert
 - 1 c à s de piment séché concassé 
 - 1 bouquet de coriandre haché grossièrement
-- 3 d'oignons verts coupés finement
+- 3 oignons vert coupés finement
 - 1 bouquet de menthe fraîche
 
 ## Preparation ##
