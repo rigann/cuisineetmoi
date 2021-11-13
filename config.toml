@@ -1,6 +1,6 @@
-baseURL = "https://www.cuisineya.com/"
+baseURL = "https://www.yacuisine.com/"
 languageCode = "fr"
-title = "Cuisine et moi, un blog de Mathorea"
+title = "Ya cuisine, un blog de Mathorea"
 
 theme = "dream"
 enableRobotsTXT = true
@@ -15,7 +15,7 @@ enableRobotsTXT = true
   avatar = "/me/mathorea.jpg"
   motto = "de la cuisine simple de tous les jours pour tous"
   
-  email = "limmathorea@gmail.com"
+  email = "mathorea@yacuisine.com"
 
   siteStartYear = 2020
 

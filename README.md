@@ -15,10 +15,12 @@ Les pages sont déployées par Netlify. Il y a 2 versions du site:
 Les photos :camera: et textes sont soumis aux droits d'auteur.
 
 ## Todo sans priorité
+
 - [ ] Trouver une façon de traiter les photos avant publication.
 - [ ] Ajouter la possibilité de mettre des commentaires.
 - [ ] Choisir un meilleur fond.
 - [x] Mettre en place son propre nom de domaine.
+- [ ] Mettre en place un moteur de recherche pour trouver plus facilement les recettes.
 
 
 

@@ -16,7 +16,7 @@ La cuisson de quinoa est très simple à réaliser. La préparation est très si
 <!--more--> 
 Le quinoa s'accompagne très bien avec une sauce tomate, rôti de viande ou bien des saucisses. C'est un vrai régal pour tout la famille. Je le sers souvent dans la boite à lunch et mes enfants adorent sa texture et son goût comme les grains de maïs. 
 
-**Astuce:** Vous pouvez remplacer l'eau par du bouillon de poulet c'est encore meilleur.
+**Astuce:** Vous pouvez remplacer l'eau par du bouillon de poulet c'est meilleur.
 
 ## Ingrédients pour 4 personnes
 

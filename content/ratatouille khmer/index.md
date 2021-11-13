@@ -11,11 +11,10 @@ tags:
 - courgette
 - carotte
 - banane plantain
-
 date: 2020-11-04
 preparationTime: 15 mins
 cookingTime: 30 mins
-draft: true
+draft: false
 portion: 4 personnes
 
 ---
@@ -66,31 +65,31 @@ Le nom Ratatou-potaufeu est une combinaison de deux plat française " Ratatouill
 
 1. Faites chauffer 5 c à s d'huile dans une casserole à feux vif, puis incorporez la pâte de kreoenug, faire revenir quelques secondes
 
-![decoupe](02.jpg)
+![](02.jpg)
 
 2. Rajoutez les morceau poitrines de porc et les assaisonnement, remuez avec kreoenug environ 3 mins à feu moyen.
 
-![decoupe](03.jpg)
+![](03.jpg)
 
 3. Versez les légumes sauf les courgette et les épinard, puis faites revenir 5 minutes  
 
-![decoupe](04.jpg)
+![](04.jpg)
 
 4. Rajoutez les courgette et le riz rissolé, puis mélangez environ 2 minutes
 
-![decoupe](05.jpg)
+![](05.jpg)
 
 5. Incorporez l'eau (900 ml), puis laissez cuire pendant 15 minutes à feu moyen.
 
-![decoupe](06.jpg)
+![](06.jpg)
 
 6. Coupez le feu puis rajoutez les épinards 
 
-![decoupe](07.jpg)
+![](07.jpg)
 
-c'est prêt pour la dégustation.
+C'est prêt pour la dégustation.
 
-![decoupe](08.jpg)
+![](08.jpg)
 
 ## Dressage ##
 

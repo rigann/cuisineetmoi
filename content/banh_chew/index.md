@@ -5,7 +5,7 @@ categories:
 - plat
 
 tags:
-- farine Riz
+- farine riz
 - lait coco
 - curcuma 
 

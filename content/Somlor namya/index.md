@@ -27,11 +27,11 @@ Suite du message
 - 1 tige de citronnelle
 - 4 gousses d'ail
 - 2 feuilles de kaffir
-- 4 tiges de galanga camphré https://qatar.desertcart.com/products/54763758-fresh-thai-kra-chai-lesser-galangal-temu-kunci-krachai-chinese-keys-100-g
+- 4 tiges de [galanga camphré](https://qatar.desertcart.com/products/54763758-fresh-thai-kra-chai-lesser-galangal-temu-kunci-krachai-chinese-keys-100-g)
 - 400 ml de lait de coco
 - 7 c à s la sauce de poisson
 - 1 c à s de cassonade
-- 1 c à c de pâte de crevette fermenté https://fr.wikipedia.org/wiki/P%C3%A2te_de_crevettes
+- 1 c à c de pâte de [crevette fermenté](https://fr.wikipedia.org/wiki/P%C3%A2te_de_crevettes)
 - 1 poigné de cacahuète
 - 2 L de d'eau
 - 400 g de vermicelle de riz 
@@ -52,4 +52,5 @@ Suite du message
 ## Dressage ##
 
 Servez la salade dans une assiette puis saupoudrez de cacahuète écrasé.
+
 Bonne dégustation :)

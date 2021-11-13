@@ -33,19 +33,13 @@ Suite du message
 - 5 g de gingembre
 - 1 c à s grosse sel
 - 54 g de sauce poisson "Nuoc mam"
-- 3,5 L d'eau
-
-### Sauce vinaigrette
-
-
+- 3,5 l d'eau
 
 
 ## Préparation ##
 
-1. Lavez et râpez les choux blanc et rouge, puis réservez-les dans un saladier.
+1. Lavez et râpez les choux blancs et rouges, puis réservez-les dans un saladier.
 ![decoupe](02.jpg)
-
-
 
 ![resultat](04.jpg)
 

@@ -38,7 +38,7 @@ Nouilles facile à faire.
 2. Incorporer des nouilles, remuez en soulevant délicatement les nouilles pour bien les enrober environ 2 minute à l’aide d’une paire de baguette.
 3. Rajoutez les carottes rapé, continuez à remuer de temps à autre environ 4 minutes jusqu'à les nouilles soient cuites, réservez les nouilles dans un grand récipient. 
 4. Réchauffer le wok et mettre une cuillère à soupe d’huile sur un feu vif, ajoutez des œufs légèrement battus et remuer les jusqu'à ce qu'ils soient semi fermes, coupez le feu.
-5. Incorporer les nouilles et la moitié du ciboulette ciselée, mélange les bien avec des baguettes. c’est prêt!
+5. Incorporer les nouilles et la moitié du ciboulette ciselée, mélange les bien avec des baguettes. C’est prêt!
 
 ## Dressage de l'assiette ##
 

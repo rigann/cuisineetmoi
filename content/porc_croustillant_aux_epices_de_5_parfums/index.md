@@ -2,6 +2,7 @@
 title: "Porc croustillant aux épices de cinq parfums"
 cover: "/porc_croustillant_aux_epices_de_5_parfums/cover.jpg"
 categories:
+- plat
 tags:
 - porc
 date: 2020-09-09

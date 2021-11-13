@@ -1,14 +1,12 @@
 ---
 title: "Flammekueche Tarte Flambée"
-cover: "/template/cover.jpg"
+cover: "/flammekueche/cover.jpg"
 categories:
 - entrée
 tags:
-
 - lardon
 - échalote
 - crème fraîche épaisse
-
 date: 2020-11-06
 preparationTime: 15 mins
 cookingTime: 10 mins à 250°C (482°F)
